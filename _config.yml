@@ -19,3 +19,8 @@ url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
+
+# Sass settings
+sass:
+  sass_dir: _sass
+  style: :compressed
