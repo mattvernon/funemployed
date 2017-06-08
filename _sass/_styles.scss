@@ -122,10 +122,24 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Tiempos';
+	src: url('../fonts/TiemposHeadlineWeb-Bold.eot');
+	src: url('../fonts/TiemposHeadlineWeb-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/TiemposHeadlineWeb-Bold.woff2') format('woff2'),
+		url('../fonts/TiemposHeadlineWeb-Bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
 
 
 
 /* BEGIN STYLES ===================================== */
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   font-family: 'Gordita', sans-serif;
@@ -156,8 +170,10 @@ h1 img {
 }
 
 #content h2 {
+  font-family: 'Tiempos';
   font-size: 50px;
   color: #04092B;
+  max-width: 490px;
 }
 
 #content p {
@@ -169,18 +185,24 @@ h1 img {
 
 /* Mailchimp styling */
 
+.mailchimp-form {
+  margin-top: 60px;
+}
+
 input[type=submit] {
   color: white;
   background: #E55154;
-  padding: 22px 60px;
+  padding: 22.5px 60px 22.5px 60px;
   transition: 0.2s;
   border: none;
+  border-radius: 4px;
 
   font-family: 'Gordita';
+  font-weight: 500;
 }
 
 input[type=submit]:hover {
-  background: black;
+  background: #C84547;
   color: white;
   cursor: pointer;
 }
@@ -190,10 +212,14 @@ input[type=submit]:focus {
 }
 
 input[type=email] {
+  font-family: Gordita;
+  font-size: 14px;
+
   display: inline;
   padding: 22.5px 20px;
   width: 275px;
   border: 1px solid #DFDFDF;
+  border-radius: 4px;
   outline: none;
   transition: 0.2s;
 }
@@ -203,7 +229,7 @@ input[type=email]:hover {
 }
 
 input[type=email]:focus {
-  border: 1px solid #ABABAB;
+  border: 1px solid #E5E5E7;
   outline: none;
 }
 
@@ -219,5 +245,4 @@ input[type="button"],
 input[type="email"],
 input[type="submit"] {
      -webkit-appearance: none;
-     border-radius: 0;
 }
