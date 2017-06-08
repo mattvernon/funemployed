@@ -257,28 +257,57 @@ MEDIA QUERIES ==================
 
 ========================== */
 
+@media(max-width:1200px) {
+
+  .mc-field,
+  .mc-field .email,
+  .mc-button {
+    width: 100%;
+  }
+
+}
+
 @media(max-width:1088px) {
 
   #content h2 {
     font-size: 36px;
   }
 
-input {
-  width: 100%;
-}
-
-.illustration {
-  width: 20%;
-}
-
-}
-
-@media(max-width:740px) {
-
-  .mc-field,
-  .mc-field .email,
-  .mc-button {
+  input {
     width: 100%;
+  }
+
+  .illustration img {
+    max-width: 100%;
+  }
+
+  .container {
+    flex-wrap: wrap;
+  }
+
+}
+
+@media(max-width:640px) {
+
+  #content h2 {
+    font-size: 24px;
+  }
+
+  #content p {
+    font-size: 12px;
+    line-height: 1.8;
+  }
+
+  .illustration {
+    display: none;
+  }
+
+  #content {
+    padding-right: 0;
+  }
+
+  h1 img {
+    margin-bottom: 30px;
   }
 
 }
