@@ -1,5 +1,5 @@
 ---
-title: Funemployed
+title: Funemployed – say no to the nine to five.
 timezone: UTC
 collections:
   posts:
@@ -9,15 +9,14 @@ collections:
     title: Uploads
     output: true
 email: hello@matthewvernon.co
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: 'Stories from freelancers, influencers, nomads, streamers, bloggers and
+  vloggers about how they got their start, how they live their lives and how they
+  make their money.
 
 '
 baseurl: 
-url: http://yourdomain.com
-twitter_username: jekyllrb
-github_username: jekyll
+url: http://funemployed.life
+twitter_username: funemployed
 markdown: kramdown
 sass:
   sass_dir: _sass
