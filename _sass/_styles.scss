@@ -150,6 +150,8 @@ body {
 
   -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+
+  padding-top: 5%;
 }
 
 
@@ -245,4 +247,38 @@ input[type="button"],
 input[type="email"],
 input[type="submit"] {
      -webkit-appearance: none;
+}
+
+
+
+/* =======================================
+
+MEDIA QUERIES ==================
+
+========================== */
+
+@media(max-width:1088px) {
+
+  #content h2 {
+    font-size: 36px;
+  }
+
+input {
+  width: 100%;
+}
+
+.illustration {
+  width: 20%;
+}
+
+}
+
+@media(max-width:740px) {
+
+  .mc-field,
+  .mc-field .email,
+  .mc-button {
+    width: 100%;
+  }
+
 }
