@@ -146,12 +146,8 @@ body {
   font-size: 16px;
   font-weight: 400;
 
-  padding: 30px;
-
   -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-
-  padding-top: 5%;
 }
 
 
@@ -159,8 +155,8 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 
-  display: flex;
-  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 a {
@@ -173,6 +169,13 @@ a {
 
 a:hover {
   color: #04092B;
+}
+
+.landing-wrapper {
+  display: flex;
+  align-items: center;
+
+  padding-top: 5%;
 }
 
 #content {
@@ -260,6 +263,30 @@ input[type="email"],
 input[type="submit"] {
      -webkit-appearance: none;
 }
+/* ==================================================
+HEADER
+==================================================== */
+
+header .wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.header-logo {
+  border: none;
+}
+
+header nav a {
+  border: none;
+  margin-left: 20px;
+}
+
+header h1 img {
+  margin: 0;
+}
 
 
 /* ==================================================
@@ -274,6 +301,7 @@ footer {
 
 
 footer .wrapper {
+  display: flex;
   align-items: flex-start;
   justify-content: space-between;
 }
