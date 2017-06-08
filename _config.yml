@@ -17,7 +17,7 @@ description: 'Stories from freelancers, influencers, nomads, streamers, bloggers
   make their money.
 
 '
-baseurl: 
+baseurl: /matt_vernon
 url: http://funemployed.life
 twitter_username: funemployed
 markdown: kramdown
