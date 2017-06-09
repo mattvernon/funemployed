@@ -1,6 +1,6 @@
 /* WEBFONTS ========================================= */
 
-/* gordita */
+/* Gordita */
 
 @font-face {
 	font-family: 'Gordita';
@@ -122,6 +122,8 @@
 	font-style: normal;
 }
 
+/* Tiempos */
+
 @font-face {
 	font-family: 'Tiempos';
 	src: url('../assets/fonts/TiemposHeadlineWeb-Bold.eot');
@@ -133,9 +135,33 @@
 }
 
 
+/* =========================================
+
+ BEGIN STYLES
+
+ ===================================== */
+
+/* SASS VARIABLES */
+
+// typography
+
+$gordita: 'Gordita', sans-serif;
+$tiempos: 'Tiempos', serif;
+
+// colour
+
+$coral: #E74F4F;
+$purple: #7A1DC4;
+$yellow: #FED545;
+
+$lightgrey: #E6E6E6;
+$grey: #9093A9;
+$navy: #04092B;
 
 
-/* BEGIN STYLES ===================================== */
+
+
+/* site-wide styles */
 
 * {
   box-sizing: border-box;
@@ -145,6 +171,7 @@ body {
   font-family: 'Gordita', sans-serif;
   font-size: 16px;
   font-weight: 400;
+	color: $grey;
 
   -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -161,15 +188,23 @@ body {
 
 a {
   text-decoration: none;
-  color: #7A1DC4;
-  border-bottom: 1px solid #E6E6E6;
+  color: $purple;
+  border-bottom: 1px solid $lightgrey;
   padding-bottom: 2px;
   transition: 0.2s;
 }
 
 a:hover {
-  color: #04092B;
+  color: $navy;
 }
+
+
+
+
+
+
+
+/* landing page */
 
 .landing-wrapper {
   display: flex;
@@ -263,8 +298,16 @@ input[type="email"],
 input[type="submit"] {
      -webkit-appearance: none;
 }
+
+
+
+
+
+
 /* ==================================================
-HEADER
+
+HEADER / MAIN NAVIGATION
+
 ==================================================== */
 
 header .wrapper {
@@ -282,6 +325,15 @@ header .wrapper {
 header nav a {
   border: none;
   margin-left: 20px;
+	color: $grey;
+	font-size: 14px;
+	font-weight: 500;
+
+	transition: 0.2s;
+}
+
+header nav a:hover {
+	color: $navy;
 }
 
 header h1 img {
@@ -290,7 +342,9 @@ header h1 img {
 
 
 /* ==================================================
+
 FOOTER
+
 ==================================================== */
 
 footer {
@@ -308,6 +362,7 @@ footer .wrapper {
 
 footer .footer-left {
   max-width: 270px;
+	margin-bottom: 40px;
 }
 
 .footer-left img {
@@ -319,6 +374,57 @@ footer nav a {
   margin-left: 20px;
   font-weight: 500;
   font-size: 14px;
+	color: $grey;
+	transition: 0.2s;
+}
+
+footer nav a:hover {
+	color: $navy;
+}
+
+
+/* ==================================================
+
+NEWSLETTER CTA
+
+==================================================== */
+
+.newsletter-cta {
+	background-image: url(../assets/images/newsletter-bg.png);
+	background-size: cover;
+
+	height: 500px;
+	display: flex;
+	align-items: center;
+}
+
+.newsletter-cta .newsletter-inner {
+	background-color: white;
+	border-radius: 4px;
+	padding: 60px 80px 60px 80px;
+
+	text-align: center;
+}
+
+.newsletter-inner h3 {
+	font-family: $tiempos;
+	color: $navy;
+	font-size: 36px;
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+.mc-newsletter-cta {
+	margin-top: 20px;
+}
+
+.mc-newsletter-cta input[type=submit] {
+	background-color: #013CC6;
+	transition: 0.2s;
+}
+
+.mc-newsletter-cta input[type=submit]:hover {
+	background-color: $navy;
 }
 
 
@@ -328,14 +434,12 @@ footer nav a {
 
 
 
+/* =========================================================
 
-
-
-/* =======================================
-
-MEDIA QUERIES ==================
+MEDIA QUERIES
 
 ========================== */
+
 
 @media(max-width:1500px) {
   #content h2 {
@@ -375,6 +479,8 @@ MEDIA QUERIES ==================
 
 @media(max-width:640px) {
 
+	// landing page
+
   #content h2 {
     font-size: 24px;
   }
@@ -395,5 +501,21 @@ MEDIA QUERIES ==================
   h1 img {
     margin-bottom: 30px;
   }
+
+	// wrap navigation on mobile
+
+	header .wrapper,
+	footer .wrapper {
+		flex-wrap: wrap;
+	}
+
+	header .wrapper nav a,
+	footer .wrapper nav a {
+		margin-right: 20px;
+		margin-left: 0;
+	}
+
+
+
 
 }
