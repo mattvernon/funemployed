@@ -17,8 +17,8 @@ description: 'Stories from freelancers, influencers, nomads, streamers, bloggers
   make their money.
 
 '
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: funemployed
 markdown: kramdown
 sass:
