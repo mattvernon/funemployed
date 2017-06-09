@@ -315,7 +315,8 @@ header .wrapper {
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
-  padding-top: 20px;
+  padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .header-logo {
@@ -401,7 +402,7 @@ NEWSLETTER CTA
 .newsletter-cta .newsletter-inner {
 	background-color: white;
 	border-radius: 4px;
-	padding: 60px 80px 60px 80px;
+	padding: 60px 90px 60px 90px;
 
 	text-align: center;
 }
@@ -411,11 +412,17 @@ NEWSLETTER CTA
 	color: $navy;
 	font-size: 36px;
 	margin: 0;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
+}
+
+.newsletter-inner p {
+	font-weight: 500;
+	color: $navy;
+	line-height: 1.7;
 }
 
 .mc-newsletter-cta {
-	margin-top: 20px;
+	margin-top: 30px;
 }
 
 .mc-newsletter-cta input[type=submit] {
@@ -455,6 +462,15 @@ MEDIA QUERIES
     width: 100%;
   }
 
+	.mc-newsletter-cta input[type=submit] {
+		width: 100%;
+	}
+
+	header .wrapper {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
 }
 
 @media(max-width:1088px) {
@@ -474,6 +490,14 @@ MEDIA QUERIES
   .container {
     flex-wrap: wrap;
   }
+
+	.newsletter-inner h3 {
+		font-size: 30px;
+	}
+
+	.newsletter-cta .newsletter-inner {
+		padding: 40px 60px;
+	}
 
 }
 
@@ -513,6 +537,14 @@ MEDIA QUERIES
 	footer .wrapper nav a {
 		margin-right: 20px;
 		margin-left: 0;
+	}
+
+	.newsletter-cta {
+		padding: 20px 30px;
+	}
+
+	.newsletter-cta .newsletter-inner {
+		padding: 20px;
 	}
 
 
