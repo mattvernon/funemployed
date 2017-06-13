@@ -13,11 +13,11 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ""
+    path: ''
     type: Profiles
   values:
     Achievements:
-    - ""
+    - ''
     Website: 
     Twitter: 
     Facebook: 
@@ -28,7 +28,6 @@ defaults:
     LinkedIn: 
     Pinterest: 
     Medium: 
-
 email: hello@matthewvernon.co
 description: Stories from freelancers, influencers, nomads, streamers, bloggers and
   vloggers about how they got their start, how they live their lives and how they
