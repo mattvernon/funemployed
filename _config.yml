@@ -13,7 +13,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
+    path: 'profiles'
     type: Profiles
   values:
     Achievements:
