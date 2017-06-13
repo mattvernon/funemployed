@@ -16,7 +16,7 @@ defaults:
     path: profiles
     type: Profiles
   values:
-    Achievements:
+    Achievements: 
     Website: 
     Twitter: 
     Facebook: 
