@@ -13,10 +13,10 @@ collections:
     output: true
 defaults:
 - scope:
-    path: profiles
+    path: ''
     type: Profiles
   values:
-    Achievements: 
+    Achievements: testing
     Website: 
     Twitter: 
     Facebook: 
