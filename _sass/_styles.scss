@@ -209,6 +209,7 @@ a:hover {
 .landing-wrapper {
   display: flex;
   align-items: center;
+	justify-content: space-between;
 
   padding-top: 5%;
 }
@@ -349,8 +350,7 @@ FOOTER
 ==================================================== */
 
 footer {
-  margin-top: 100px;
-  padding-top: 60px;
+  padding-top: 80px;
   border-top: 1px solid #E6E6E6;
 }
 
@@ -363,7 +363,7 @@ footer .wrapper {
 
 footer .footer-left {
   max-width: 270px;
-	margin-bottom: 40px;
+	margin-bottom: 60px;
 }
 
 .footer-left img {
@@ -434,9 +434,85 @@ NEWSLETTER CTA
 	background-color: $navy;
 }
 
+/* =========================================================
 
+About Page / Static Page styles
 
+========================== */
 
+.static-wrapper {
+  display: flex;
+  align-items: flex-start;
+	justify-content: center;
+	margin-bottom: 100px;
+}
+
+.content-left h2 {
+	color: $navy;
+	font-size: 50px;
+	font-family: $tiempos;
+	margin-bottom: 80px;
+}
+
+.content-left {
+	max-width: 500px;
+	flex-shrink: 0;
+	margin-right: 60px;
+}
+
+b {
+	color: $navy;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 1.66;
+
+	display: block;
+	margin-bottom: 40px;
+	max-width: 360px;
+}
+
+p {
+	margin-bottom: 30px;
+}
+
+.profile-image-about {
+	max-width: 80%;
+}
+
+.content-right {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex-shrink: 2;
+	padding-top: 100px;
+}
+
+.social-links {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.content-right .social-links a {
+	border: none;
+	padding: none;
+	margin: 0 5px;
+	padding: 5px;
+
+	width: 45px;
+	height: 45px;
+
+	transition: 0.2s ease;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content-right b {
+	margin-bottom: 20px;
+	margin-top: 40px;
+}
 
 
 
@@ -454,17 +530,7 @@ MEDIA QUERIES
   }
 }
 
-@media(max-width:1200px) {
-
-  .mc-field,
-  .mc-field .email,
-  .mc-button {
-    width: 100%;
-  }
-
-	.mc-newsletter-cta input[type=submit] {
-		width: 100%;
-	}
+@media(max-width:1100px) {
 
 	header .wrapper {
 		padding-top: 0;
@@ -482,6 +548,16 @@ MEDIA QUERIES
   input {
     width: 100%;
   }
+
+	.mc-field,
+  .mc-field .email,
+  .mc-button {
+    width: 100%;
+  }
+
+	.mc-newsletter-cta input[type=submit] {
+		width: 100%;
+	}
 
   .illustration img {
     max-width: 100%;
@@ -544,7 +620,7 @@ MEDIA QUERIES
 	}
 
 	.newsletter-cta .newsletter-inner {
-		padding: 20px;
+		padding: 40px;
 	}
 
 
