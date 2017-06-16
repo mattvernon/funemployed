@@ -1,5 +1,6 @@
 ---
-title: Sara Dietschy
+
+title: Saradietschy
 date: 2017-06-13 11:30:00 Z
 Excerpt: "* Day in the life content"
 Blurb: It’s pronounced Peachy. Full-time vlogger and creative producing work in New
@@ -17,6 +18,7 @@ Twitch:
 LinkedIn:
 Pinterest:
 Medium:
+
 ---
 
 **Hello! What's your background, and what are you working on?**
