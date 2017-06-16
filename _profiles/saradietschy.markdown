@@ -1,23 +1,5 @@
 ---
-title: Sara Dietschy
-date: 2017-06-13 11:30:00 Z
-Excerpt: "* Day in the life content"
-Blurb: It’s pronounced Peachy. Full-time vlogger and creative producing work in New
-  York City.
-Achievements:
-- "\U0001F1FA\U0001F1F8 Born and raised in Texas"
-Image: "/uploads/profileimg.png"
-<<<<<<< HEAD
-Website:
-Twitter:
-Facebook:
-Instagram:
-Snapchat:
-YouTube:
-Twitch:
-LinkedIn:
-Pinterest:
-Medium:
+title: Saradietschy
 ---
 
 Article content goes here
