@@ -452,13 +452,14 @@ MOBILE NAVIGATION
 }
 
 .mobileNavOpen {
-	display: block;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .mobile-nav nav {
-	position: absolute;
-	left: 30px;
-	bottom: 40px;
+	text-align: center;
+	line-height: 1.6;
 }
 
 .mobile-nav nav a {
@@ -466,11 +467,6 @@ MOBILE NAVIGATION
 	color: white;
 	font-size: 50px;
 	display: block;
-}
-
-.mobile-nav .header-logo {
-	position: absolute;
-	left: 20px;
 }
 
 
@@ -555,7 +551,9 @@ HOME PAGE
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	transition: 0.2s;
 }
+
 
 .profile-cards .profile-card {
 	border: 1px solid $lightgrey;
@@ -572,7 +570,16 @@ HOME PAGE
 
 	text-align: center;
 	padding: 20px 40px;
+
+	transition: 0.2s;
 }
+
+.profile-cards .profile-card:hover {
+	transform: scale(1.05);
+	box-shadow: 0 30px 40px 0 rgba(0,0,0,0.08);
+}
+
+
 
 .profile-card .card-img {
 	width: 45%;
@@ -635,7 +642,7 @@ NEWSLETTER CTA
 }
 
 .mc-newsletter-cta input[type=submit]:hover {
-	background-color: $navy;
+	background-color: #002B91;
 }
 
 /* =========================================================

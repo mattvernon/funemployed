@@ -6,7 +6,7 @@ $('#nav-icon3').click(function(){
   $(this).toggleClass('open');
 
   // 2. show mobile header
-  $('.mobile-nav').toggle(200)
+  $('.mobile-nav').toggleClass('mobileNavOpen')
 
   return false
 
