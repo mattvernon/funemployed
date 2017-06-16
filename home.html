@@ -25,13 +25,13 @@ layout: default
 
     {% for profiles in site.profiles %}
 
-      <article class="profile-card">
+      <a href="{{ profiles.url }}" class="profile-card">
         <div class="profile-card-inner">
           <img src="{{ profiles.Image }}" class="card-img">
           <h4>{{ profiles.title }}</h4>
           <p>{{ profiles.Blurb }}</p>
         </div>
-      </article>
+      </a>
 
     {% endfor %}
 

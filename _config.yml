@@ -21,24 +21,25 @@ defaults:
     Achievements:
     - "\U0001F1FA\U0001F1F8 Born and raised in Texas"
     Profile Image: "/uploads/profileimg.png"
-    Website: 
-    Twitter: 
-    Facebook: 
-    Instagram: 
-    Snapchat: 
-    YouTube: 
-    Twitch: 
-    LinkedIn: 
-    Pinterest: 
-    Medium: 
+    Website:
+    Twitter:
+    Facebook:
+    Instagram:
+    Snapchat:
+    YouTube:
+    Twitch:
+    LinkedIn:
+    Pinterest:
+    Medium:
 email: hello@matthewvernon.co
 description: Stories from freelancers, influencers, nomads, streamers, bloggers and
   vloggers about how they got their start, how they live their lives and how they
   make their money.
-baseurl: 
-url: 
+baseurl:
+url:
 twitter_username: funemployed
 markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+permalink: pretty
