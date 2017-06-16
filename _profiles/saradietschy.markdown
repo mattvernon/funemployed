@@ -1,6 +1,7 @@
 ---
 title: Sara Dietschy
 date: 2017-06-13 11:30:00 Z
+Exerpt: 
 Achievements:
 - "\U0001F1FA\U0001F1F8 Born and raised in Texas"
 - "\U0001F3B8 Studied Music at College"
