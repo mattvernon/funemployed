@@ -1,6 +1,7 @@
 ---
 title: Saradietschy
 date: 2017-06-13 11:30:00 Z
+permalink: pretty
 Excerpt: "* Day in the life content"
 Blurb: It’s pronounced Peachy. Full-time vlogger and creative producing work in New
   York City.
