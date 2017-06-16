@@ -1,13 +1,13 @@
 ---
 title: Sara Dietschy
 date: 2017-06-13 11:30:00 Z
-Exerpt: 
+Excerpt: "* Day in the life content"
+Blurb: Blurb for profile card goes here
 Achievements:
 - "\U0001F1FA\U0001F1F8 Born and raised in Texas"
-- "\U0001F3B8 Studied Music at College"
-Profile Image: 
-Website: saradietschy.com
-Twitter: saradietschy
+Profile Image: "/uploads/profileimg.png"
+Website: 
+Twitter: 
 Facebook: 
 Instagram: 
 Snapchat: 
@@ -18,4 +18,4 @@ Pinterest:
 Medium: 
 ---
 
-yoyoyoyoy
+Article content goes here
