@@ -512,6 +512,25 @@ footer nav a:hover {
 
 /* ==================================================
 
+HOME PAGE
+
+==================================================== */
+
+#intro .wrapper {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		margin-top: 60px;
+		margin-bottom: 60px;
+}
+
+#intro .wrapper img {
+	width: 40%;
+	padding-left: 40px;
+}
+
+/* ==================================================
+
 NEWSLETTER CTA
 
 ==================================================== */
