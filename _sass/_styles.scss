@@ -587,8 +587,8 @@ About Page / Static Page styles
 
 .static-wrapper {
   display: flex;
-  align-items: flex-start;
-	justify-content: center;
+  align-items: center;
+	justify-content: space-between;
 	margin-bottom: 100px;
 }
 
@@ -686,6 +686,8 @@ MEDIA QUERIES
 
 }
 
+
+
 @media(max-width:1088px) {
 
   #content h2 {
@@ -723,6 +725,33 @@ MEDIA QUERIES
 	}
 
 }
+
+
+
+@media(max-width:960px) {
+
+	// wrap about pg contents
+
+	.static-wrapper {
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+
+	.static-wrapper .content-left {
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin-right: 0;
+	}
+
+	.profile-image-about {
+		max-width: 300px;
+	}
+
+}
+
+
 
 @media(max-width:640px) {
 
