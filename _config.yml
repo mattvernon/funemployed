@@ -11,10 +11,22 @@ collections:
   uploads:
     title: Uploads
     output: true
+
+email: hello@matthewvernon.co
+description: Stories from freelancers, influencers, nomads, streamers, bloggers and
+  vloggers about how they got their start, how they live their lives and how they
+  make their money.
+baseurl: 
+url: 
+twitter_username: funemployed
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
 defaults:
 - scope:
-    path: ''
-    type: Profiles
+    type: Profiles 
   values:
     Excerpt: "* Day in the life content"
     Blurb: Blurb for profile card goes here
@@ -31,14 +43,3 @@ defaults:
     LinkedIn: 
     Pinterest: 
     Medium: 
-email: hello@matthewvernon.co
-description: Stories from freelancers, influencers, nomads, streamers, bloggers and
-  vloggers about how they got their start, how they live their lives and how they
-  make their money.
-baseurl: 
-url: 
-twitter_username: funemployed
-markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
