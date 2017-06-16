@@ -14,7 +14,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: Profiles
+    type: profiles
   values:
     Excerpt: "* Day in the life content"
     Blurb: Blurb for profile card goes here
