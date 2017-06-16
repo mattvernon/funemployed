@@ -1,5 +1,4 @@
 ---
-
 title: Saradietschy
 date: 2017-06-13 11:30:00 Z
 Excerpt: "* Day in the life content"
@@ -8,17 +7,16 @@ Blurb: It’s pronounced Peachy. Full-time vlogger and creative producing work i
 Achievements:
 - "\U0001F1FA\U0001F1F8 Born and raised in Texas"
 Image: "/uploads/profileimg.png"
-Website:
-Twitter:
-Facebook:
-Instagram:
-Snapchat:
-YouTube:
-Twitch:
-LinkedIn:
-Pinterest:
-Medium:
-
+Website: 
+Twitter: 
+Facebook: 
+Instagram: 
+Snapchat: 
+YouTube: 
+Twitch: 
+LinkedIn: 
+Pinterest: 
+Medium: 
 ---
 
 **Hello! What's your background, and what are you working on?**
