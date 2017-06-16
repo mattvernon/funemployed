@@ -21,48 +21,30 @@ layout: default
   <div class="wrapper">
     <h3>Latest Profiles</h3>
     <div class="profile-cards">
-      <div class="profile-card">
+
+
+    {% for profiles in site.profiles %}
+
+      <article class="profile-card">
+        <div class="profile-card-inner">
+          <img src="{{ profiles.image }}" class="card-img">
+          <h4>{{ profiles.title }}</h4>
+          <p>{{ profiles.blurb }}</p>
+        </div>
+      </article>
+
+    {% endfor %}
+
+
+      <!-- <div class="profile-card">
         <div class="profile-card-inner">
           <img src="assets/images/melrose.jpg" class="card-img">
           <h4>Matthew Vernon</h4>
           <p>Freelance designer who starts way too many side projects. Guess what?  This site is one of them.</p>
         </div>
-      </div>
-      <div class="profile-card">
-        <div class="profile-card-inner">
-          <img src="assets/images/melrose.jpg" class="card-img">
-          <h4>Matthew Vernon</h4>
-          <p>Freelance designer who starts way too many side projects. Guess what?  This site is one of them.</p>
-        </div>
-      </div>
-      <div class="profile-card">
-        <div class="profile-card-inner">
-          <img src="assets/images/melrose.jpg" class="card-img">
-          <h4>Matthew Vernon</h4>
-          <p>Freelance designer who starts way too many side projects. Guess what?  This site is one of them.</p>
-        </div>
-      </div>
-      <div class="profile-card">
-        <div class="profile-card-inner">
-          <img src="assets/images/melrose.jpg" class="card-img">
-          <h4>Matthew Vernon</h4>
-          <p>Freelance designer who starts way too many side projects. Guess what?  This site is one of them.</p>
-        </div>
-      </div>
-      <div class="profile-card">
-        <div class="profile-card-inner">
-          <img src="assets/images/melrose.jpg" class="card-img">
-          <h4>Matthew Vernon</h4>
-          <p>Freelance designer who starts way too many side projects. Guess what?  This site is one of them.</p>
-        </div>
-      </div>
-      <div class="profile-card">
-        <div class="profile-card-inner">
-          <img src="assets/images/melrose.jpg" class="card-img">
-          <h4>Matthew Vernon</h4>
-          <p>Freelance designer who starts way too many side projects. Guess what?  This site is one of them.</p>
-        </div>
-      </div>
+      </div> -->
+
+
 
     </div>
   </div>
