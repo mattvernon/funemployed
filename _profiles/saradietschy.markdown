@@ -6,7 +6,7 @@ Blurb: It’s pronounced Peachy. Full-time vlogger and creative producing work i
   York City.
 Achievements:
 - "\U0001F1FA\U0001F1F8 Born and raised in Texas"
-Image: "/uploads/profileimg.png"
+Image: "/uploads/sara.png"
 Website: 
 Twitter: 
 Facebook: 
