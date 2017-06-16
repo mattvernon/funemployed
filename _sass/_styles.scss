@@ -322,6 +322,7 @@ header .wrapper {
 
 .header-logo {
   border: none;
+	z-index: 4;
 }
 
 header nav a {
@@ -349,7 +350,8 @@ MOBILE NAVIGATION
 ========================== */
 
 
-/* Icon 1 */
+// hamburger icon
+
   #nav-icon3 {
   width: 30px;
   height: 25px;
@@ -363,6 +365,8 @@ MOBILE NAVIGATION
   -o-transition: .5s ease-in-out;
   transition: .5s ease-in-out;
   cursor: pointer;
+
+	z-index: 300;
 }
 
 #nav-icon3 span {
@@ -384,7 +388,6 @@ MOBILE NAVIGATION
   transition: .25s ease-in-out;
 }
 
-/* Icon 3 */
 
 #nav-icon3 span:nth-child(1) {
   top: 0px;
@@ -427,6 +430,43 @@ MOBILE NAVIGATION
   width: 0%;
   left: 50%;
 }
+
+// actual nav
+
+.mobile-nav {
+	position: fixed;
+	background: #E55154;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+
+	z-index: 2;
+	display: none;
+}
+
+.mobileNavOpen {
+	display: block;
+}
+
+.mobile-nav nav {
+	position: absolute;
+	left: 30px;
+	bottom: 40px;
+}
+
+.mobile-nav nav a {
+	font-family: $tiempos;
+	color: white;
+	font-size: 50px;
+	display: block;
+}
+
+.mobile-nav .header-logo {
+	position: absolute;
+	left: 20px;
+}
+
 
 
 /* ==================================================
@@ -667,6 +707,12 @@ MEDIA QUERIES
 
 @media(max-width:640px) {
 
+	// header
+
+	header .wrapper {
+		padding-left: 20px;
+	}
+
 	// landing page
 
   #content h2 {
@@ -713,7 +759,7 @@ MEDIA QUERIES
 
 	// mobile nav
 
-	header nav {
+	header #desktop-nav {
 		display: none;
 	}
 
