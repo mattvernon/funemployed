@@ -594,6 +594,47 @@ HOME PAGE
 	font-weight: 500;
 }
 
+/* ==================================================
+
+PROFILE / MAIN ARTICLE PAGE
+
+==================================================== */
+
+.profile-header .wrapper {
+	justify-content: flex-start;
+	margin: 40px auto 80px auto;
+}
+
+.profile-header {
+	border-bottom: 1px solid #E6E6E6;
+}
+
+.profile-image-page {
+	width: 260px;
+	height: 260px;
+	border-radius: 100%;
+	background-size: cover;
+}
+
+.profile-left {
+	margin-right: 100px;
+}
+
+.profile-right h2 {
+	font-family: $tiempos;
+	font-size: 60px;
+	color: $navy;
+	margin-bottom: 10px;
+}
+
+.profile-right ul {
+	list-style: none;
+	font-weight: 500;
+	color: $navy;
+	font-size: 14px;
+	padding-left: 0;
+}
+
 
 /* ==================================================
 
