@@ -10,7 +10,7 @@ Achievements:
 - "\U0001F468\U0001F3FB‍\U0001F4BB Worked at agencies and startups shortly after"
 - "\U0001F389 Quit job and started freelancing in 2016"
 - "\U0001F499 Lover of side projects"
-Image: "/uploads/Melrose.jpg"
+Profile Image: "/uploads/Melrose.jpg"
 layout: profile
 ---
 
