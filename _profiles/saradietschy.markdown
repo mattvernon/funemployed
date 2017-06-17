@@ -19,7 +19,7 @@ Hello, my name is Mohammad Dimas. I'm the front-end developer and one of the ini
 
 Email is a big part of everyone's daily communication. When we took a look at the options for managing emails on Mac and Windows, we noticed that the great default experience provided by Mac (via Mail and Sparrow) was not found on Windows. Considering that Windows had more than 80% market share through the PC market, we believed that there had to be an opportunity for our product there.
 
-**Hello! What's your background, and what are you working on?**
+# Hello! What's your background, and what are you working on?
 
 Hello, my name is Mohammad Dimas. I'm the front-end developer and one of the initial team members of Mailbird. I have a background in computer science. After graduating from university I worked in a digital agency to gain experiences in working with many international clients. Not long after that, I met the other co-founders to build Mailbird.
 
