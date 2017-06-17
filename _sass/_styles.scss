@@ -635,6 +635,20 @@ PROFILE / MAIN ARTICLE PAGE
 	padding-left: 0;
 }
 
+.profile-right li {
+	display: block;
+}
+
+.profile-right p {
+	line-height: 1.6;
+}
+
+.achievements li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	line-height: 1.8;
+}
+
 // styling content
 
 .post-content {
@@ -647,11 +661,21 @@ PROFILE / MAIN ARTICLE PAGE
 	font-size: 16px;
 }
 
-.post-content p strong {
+.post-content h1 {
 	font-family: $tiempos;
 	color: $navy;
 	font-size: 20px;
+	margin-top: 60px;
+	margin-bottom: 40px;
 }
+
+.post-content img {
+	max-width: 100%;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+
 
 
 
