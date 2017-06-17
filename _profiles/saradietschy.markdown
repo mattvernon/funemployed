@@ -7,16 +7,7 @@ Blurb: It’s pronounced Peachy. Full-time vlogger and creative producing work i
 Achievements:
 - "\U0001F1FA\U0001F1F8 Born and raised in Texas"
 Image: "/uploads/sara.png"
-Website: 
-Twitter: 
-Facebook: 
-Instagram: 
-Snapchat: 
-YouTube: 
-Twitch: 
-LinkedIn: 
-Pinterest: 
-Medium: 
+layout: profile
 ---
 
 **Hello! What's your background, and what are you working on?**
