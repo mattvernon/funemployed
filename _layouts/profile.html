@@ -9,7 +9,7 @@ layout: defaultsub
   <header class="profile-header">
   <div class="wrapper">
     <div class="profile-left">
-      <div class="profile-image-page" style="background-image: url(..{{ page.Image }})"></div>
+      <div class="profile-image-page" style="background-image: url(..{{ page['Profile Image'] }})"></div>
     </div>
     <div class="profile-right">
       <h2 class="post-title">{{ page.title }}</h1>
@@ -42,7 +42,7 @@ layout: defaultsub
           {% else %}
           <a href="{{ profiles.url | remove: ".html" }}" id="profile-card">
             <div class="profile-card-inner">
-              <img src="{{ profiles.Image }}" class="card-img">
+              <img src="{{ profiles['Profile Image'] }}" class="card-img">
               <h4>{{ profiles.title }}</h4>
               <p>{{ profiles.Blurb }}</p>
             </div>
