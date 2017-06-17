@@ -11,7 +11,7 @@ Achievements:
 - "\U0001F4E4  Uploaded first YouTube video shortly after"
 - "\U0001F58C  Accepted into Adobe Creative Residency in 2016"
 - "\U0001F5FD  Lives in New York City"
-Image: "/uploads/sara.png"
+Profile Image: "/uploads/sara.png"
 layout: profile
 ---
 
