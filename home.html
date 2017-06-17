@@ -25,7 +25,7 @@ layout: default
 
     {% for profiles in site.profiles %}
 
-      <a href="{{ profiles.url | remove: ".html" }}" class="profile-card">
+      <a href="{{ profiles.url | remove: ".html" }}" id="profile-card">
         <div class="profile-card-inner">
           <img src="{{ profiles.Image }}" class="card-img">
           <h4>{{ profiles.title }}</h4>
@@ -34,16 +34,6 @@ layout: default
       </a>
 
     {% endfor %}
-
-
-      <!-- <div class="profile-card">
-        <div class="profile-card-inner">
-          <img src="assets/images/melrose.jpg" class="card-img">
-          <h4>Matthew Vernon</h4>
-          <p>Freelance designer who starts way too many side projects. Guess what?  This site is one of them.</p>
-        </div>
-      </div> -->
-
 
 
     </div>

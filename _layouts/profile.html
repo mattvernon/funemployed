@@ -31,4 +31,28 @@ layout: defaultsub
 
 {% include newsletter-cta.html %}
 
+<!-- recent articles -->
+<section id="latest-profiles">
+  <div class="wrapper">
+    <h3>Latest Profiles</h3>
+      <div class="profile-cards">
+        {% for profiles in site.profiles limit:3 %}
+          {% if profiles.title == page.title %}
+            {% continue %}
+          {% else %}
+          <a href="{{ profiles.url | remove: ".html" }}" id="profile-card">
+            <div class="profile-card-inner">
+              <img src="{{ profiles.Image }}" class="card-img">
+              <h4>{{ profiles.title }}</h4>
+              <p>{{ profiles.Blurb }}</p>
+            </div>
+          </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+
+
 {% include footer.html %}
