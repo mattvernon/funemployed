@@ -1,6 +1,7 @@
 ---
 title: Matthew Vernon
 date: 2017-06-16 11:01:00 Z
+Excerpt: "* **9**"
 Blurb: "Freelance designer who starts way too many side projects. Guess what? \LThis
   site is one of them."
 Achievements:
@@ -14,6 +15,8 @@ Profile Image: "/uploads/Melrose.jpg"
 Website: http://matthewvernon.co
 Twitter: http://twitter.com/alwysnvr
 Instagram: http://instagram.com/matthewvernon
+Day:
+  9am: I wake up
 layout: profile
 ---
 
