@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>medium</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Branding-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Article-Page-Copy" transform="translate(-676.000000, -5125.000000)" fill-rule="nonzero" fill="#80939D">
+            <g id="Social-Icons" transform="translate(566.000000, 5125.000000)">
+                <g id="medium" transform="translate(110.000000, 0.000000)">
+                    <path d="M19.1091273,19.7159455 L27.2633455,23.7922909 C27.2778,23.7994909 27.2908909,23.805 27.3022364,23.8094727 C27.3036,23.7976909 27.3045273,23.7832364 27.3045273,23.7669818 L27.3045273,6.3978 L19.1091273,19.7159455 Z" id="Shape"></path>
+                    <polygon id="Shape" points="18.5962909 0.545018182 12.8104909 9.90616364 18.3747273 18.9489818 27.0878182 4.79056364"></polygon>
+                    <polygon id="Shape" points="9.44449091 14.8888364 16.9940727 18.6631091 9.44449091 6.396"></polygon>
+                    <path d="M0.000109090909,19.3432909 C0.000109090909,19.4708727 0.1254,19.6734545 0.239345455,19.7304 L8.37589091,23.7986727 C8.39083636,23.8058727 8.40392727,23.8122545 8.41521818,23.8158545 C8.41663636,23.8040727 8.41750909,23.7896182 8.41750909,23.7733091 L8.41750909,4.89905455 L0.000545454545,0.6906 L0.000109090909,19.3432909 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

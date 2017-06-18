@@ -10,6 +10,48 @@ layout: defaultsub
   <div class="wrapper">
     <div class="profile-left">
       <div class="profile-image-page" style="background-image: url(..{{ page['Profile Image'] }})"></div>
+      <div class="social-icons">
+        {% if page.Website %}
+        <a href="{{ page.Website }}" target="_blank">
+          <img src="../assets/images/website.svg">
+        </a>
+        {% endif %}
+        {% if page.Facebook %}
+        <a href="{{ page.Facebook }}" target="_blank">
+          <img src="../assets/images/facebook.svg">
+        </a>
+        {% endif %}
+        {% if page.Instagram %}
+        <a href="{{ page.Instagram }}" target="_blank">
+          <img src="../assets/images/instagram.svg">
+        </a>
+        {% endif %}
+        {% if page.Twitter %}
+        <a href="{{ page.Twitter }}" target="_blank">
+          <img src="../assets/images/twitter.svg">
+        </a>
+        {% endif %}
+        {% if page.YouTube %}
+        <a href="{{ page.YouTube }}" target="_blank">
+          <img src="../assets/images/youtube.svg">
+        </a>
+        {% endif %}
+        {% if page.Twitch %}
+        <a href="{{ page.Twitch }}" target="_blank">
+          <img src="../assets/images/twitch.svg">
+        </a>
+        {% endif %}
+        {% if page.Medium %}
+        <a href="{{ page.Medium }}" target="_blank">
+          <img src="../assets/images/medium.svg">
+        </a>
+        {% endif %}
+        {% if page.LinkedIn %}
+        <a href="{{ page.LinkedIn }}" target="_blank">
+          <img src="../assets/images/linkedin.svg">
+        </a>
+        {% endif %}
+      </div>
     </div>
     <div class="profile-right">
       <h2 class="post-title">{{ page.title }}</h1>
@@ -25,6 +67,52 @@ layout: defaultsub
 
   <div class="post-content">
     {{ content }}
+  </div>
+
+  <div id="profile-connect">
+    <h4>Connect with {{ page.title }}</h4>
+    <div class="social-icons">
+      {% if page.Website %}
+      <a href="{{ page.Website }}" target="_blank">
+        <img src="../assets/images/website.svg">
+      </a>
+      {% endif %}
+      {% if page.Facebook %}
+      <a href="{{ page.Facebook }}" target="_blank">
+        <img src="../assets/images/facebook.svg">
+      </a>
+      {% endif %}
+      {% if page.Instagram %}
+      <a href="{{ page.Instagram }}" target="_blank">
+        <img src="../assets/images/instagram.svg">
+      </a>
+      {% endif %}
+      {% if page.Twitter %}
+      <a href="{{ page.Twitter }}" target="_blank">
+        <img src="../assets/images/twitter.svg">
+      </a>
+      {% endif %}
+      {% if page.YouTube %}
+      <a href="{{ page.YouTube }}" target="_blank">
+        <img src="../assets/images/youtube.svg">
+      </a>
+      {% endif %}
+      {% if page.Twitch %}
+      <a href="{{ page.Twitch }}" target="_blank">
+        <img src="../assets/images/twitch.svg">
+      </a>
+      {% endif %}
+      {% if page.Medium %}
+      <a href="{{ page.Medium }}" target="_blank">
+        <img src="../assets/images/medium.svg">
+      </a>
+      {% endif %}
+      {% if page.LinkedIn %}
+      <a href="{{ page.LinkedIn }}" target="_blank">
+        <img src="../assets/images/linkedin.svg">
+      </a>
+      {% endif %}
+    </div>
   </div>
 
 </article>
