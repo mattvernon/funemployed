@@ -1,22 +1,19 @@
 ---
 title: Matthew Vernon
 date: 2017-06-16 11:01:00 Z
-Excerpt: "* **9**"
 Blurb: "Freelance designer who starts way too many side projects. Guess what? \LThis
   site is one of them."
 Achievements:
-- "\U0001F1E6\U0001F1FA Lives and works in Sydney, Australia"
-- "\U0001F58C Studied Design at Uni"
-- "\U0001F393 Graduated in 2014"
-- "\U0001F468\U0001F3FB‍\U0001F4BB Worked at agencies and startups shortly after"
-- "\U0001F389 Quit job and started freelancing in 2016"
-- "\U0001F499 Lover of side projects"
+- "\U0001F1E6\U0001F1FA   Lives and works in Sydney, Australia"
+- "\U0001F58C   Studied Design at Uni"
+- "\U0001F393   Graduated in 2014"
+- "\U0001F468\U0001F3FB‍\U0001F4BB   Worked at agencies and startups shortly after"
+- "\U0001F389   Quit job and started freelancing in 2016"
+- "\U0001F499   Lover of side projects"
 Profile Image: "/uploads/Melrose.jpg"
 Website: http://matthewvernon.co
 Twitter: http://twitter.com/alwysnvr
 Instagram: http://instagram.com/matthewvernon
-Day:
-  9am: I wake up
 layout: profile
 ---
 
