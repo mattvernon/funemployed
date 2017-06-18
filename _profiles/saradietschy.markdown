@@ -12,6 +12,9 @@ Achievements:
 - "\U0001F58C  Accepted into Adobe Creative Residency in 2016"
 - "\U0001F5FD  Lives in New York City"
 Profile Image: "/uploads/sara.png"
+Twitter: https://twitter.com/saradietschy
+Instagram: https://www.instagram.com/saradietschy
+YouTube: https://www.youtube.com/user/saradietschy
 layout: profile
 ---
 
