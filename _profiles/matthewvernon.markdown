@@ -24,7 +24,7 @@ Instagram: http://instagram.com/matthewvernon
 layout: profile
 ---
 
-Alright – I guess this is pretty vain, but I thought I’d start this website off by featuring myself. If anything I guess it’ll serve as an introduction into who I am and my motivations behind this little project you’re currently on. It’s also an easy way to test out some questions I’ll use for profiles in the future.
+Alright – I guess this is pretty vain, but I thought I’d start this website off by featuring myself. If anything I guess it’ll serve as an introduction into who I am and my motivations behind this little project you’re currently on. It’s also an easy way to test out some questions I’ll use for profiles in the future, even if it seems weird to answer questions I've written myself.
 
 
 ### Who are you, what are you currently doing to make a living, where are you based?
