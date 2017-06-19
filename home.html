@@ -23,7 +23,7 @@ layout: default
     <div class="profile-cards">
 
 
-    {% for profiles in site.profiles %}
+    {% for profiles in site.profiles reversed %}
 
       <a href="{{ profiles.url | remove: ".html" }}" id="profile-card">
         <div class="profile-card-inner">
