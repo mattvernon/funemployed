@@ -54,6 +54,10 @@ Yes and no. Yes – in that I had always planned to go freelance, but also no be
 
 Of course – things didn’t go as planned. Made Together were still in the process of securing some new clients when I returned from Japan, so they weren’t ready for me to start working yet. I didn’t have much money saved – so I had to find clients fast. This ended up working well, as it threw me in the deep end and I was forced to make it work.
 
+![IMG_0082.jpg](/uploads/IMG_0082.jpg)
+*My Current Desk Setup – where you'll find me 12 hours a day / 5 days a week.*
+
+
 
 ### Prior to leaving full time work, what steps did you put in place to prepare yourself for freelancing?
 
