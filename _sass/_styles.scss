@@ -478,37 +478,51 @@ FOOTER
 ==================================================== */
 
 footer {
-  padding-top: 80px;
+  padding-top: 40px;
+	padding-bottom: 40px;
   border-top: 1px solid #E6E6E6;
 }
 
 
 footer .wrapper {
   display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
+	align-items: center;
+	justify-content: space-between;
 }
 
-footer .footer-left {
-  max-width: 270px;
-	margin-bottom: 60px;
-}
 
-.footer-left img {
-  margin-bottom: 20px;
-}
+.slack-button {
+	border: 1px solid #E6E6E6;
+	border-radius: 4px;
+	padding: 10px 20px 8px 16px;
 
-footer nav a {
-  border: none;
-  margin-left: 20px;
-  font-weight: 500;
-  font-size: 14px;
-	color: $grey;
+	font-weight: 500;
+
+	display: flex;
+	align-items: column;
+
 	transition: 0.2s;
 }
 
-footer nav a:hover {
+.slack-button:hover {
+	background-color: #FED545;
+	border: 1px solid #FED545;
+	transform: scale(1.05);
+	box-shadow: 0 10px 20px 0 rgba(0,0,0,0.10);
+}
+
+.slack-button p {
+	margin: 0;
 	color: $navy;
+	display: inline-block;
+}
+
+.slack-button span {
+	height: 23px;
+	width: 23px;
+	margin-right: 10px;
+	margin-top: 1px;
+	background-image: url(../assets/images/slack.svg);
 }
 
 
@@ -641,7 +655,6 @@ PROFILE / MAIN ARTICLE PAGE
 	list-style: none;
 	font-weight: 500;
 	color: $navy;
-	font-size: 14px;
 	padding-left: 0;
 }
 
@@ -651,12 +664,14 @@ PROFILE / MAIN ARTICLE PAGE
 
 .profile-right p {
 	line-height: 1.6;
+	margin-bottom: 10px;
 }
 
 .achievements li {
 	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-bottom: 3px;
 	line-height: 1.8;
+	font-size: 12px;
 }
 
 // styling content
@@ -680,8 +695,8 @@ PROFILE / MAIN ARTICLE PAGE
 }
 
 .post-content h3 {
-	margin-top: 100px;
-	margin-bottom: 40px;
+	margin-top: 70px;
+	margin-bottom: 30px;
 	line-height: 1.6;
 }
 
@@ -689,6 +704,17 @@ PROFILE / MAIN ARTICLE PAGE
 	max-width: 100%;
 	margin-top: 60px;
 	margin-bottom: 60px;
+}
+
+.post-content img + em {
+	color: $navy;
+	margin-top: -30px;
+	margin-bottom: 80px;
+	display: block;
+	text-align: center;
+	font-weight: 500;
+	font-size: 12px;
+	font-style: normal;
 }
 
 // social media icons
@@ -769,7 +795,7 @@ NEWSLETTER CTA
 }
 
 .mc-newsletter-cta {
-	margin-top: 30px;
+	margin-top: 0px;
 }
 
 .mc-newsletter-cta input[type=submit] {
@@ -818,10 +844,6 @@ b {
 	max-width: 360px;
 }
 
-p {
-	margin-bottom: 30px;
-}
-
 .profile-image-about {
 	max-width: 80%;
 }
@@ -866,8 +888,48 @@ p {
 	margin-top: 40px;
 }
 
+// slack
 
+.slack-intro {
+	text-align: center;
+	margin-bottom: 100px;
+}
 
+.slack-intro h1 {
+	color: $navy;
+	font-family: $tiempos;
+	font-size: 60px;
+	margin-bottom: 25px;
+}
+
+.slack-intro h2 {
+	font-size: 18px;
+	font-weight: 500;
+	color: $navy;
+}
+
+.slack-intro .wrapper p {
+	margin: 0 auto;
+	max-width: 400px;
+}
+
+.button {
+	padding: 20px 50px;
+	border: 1px solid #E6E6E6;
+	border-radius: 4px;
+	display: inline-block;
+	margin-top: 20px;
+	color: $navy;
+	font-weight: 500;
+	font-size: 14px;
+	transition: 0.2s;
+}
+
+.button:hover {
+	transform: scale(1.05);
+	box-shadow: 0 10px 20px 0 rgba(0,0,0,0.10);
+	background-color: #FED545;
+}
 
 
 
