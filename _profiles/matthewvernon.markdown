@@ -17,12 +17,12 @@ Instagram: http://instagram.com/matthewvernon
 layout: profile
 ---
 
-Alright – I guess this is pretty vain, but I thought I’d start this website off by featuring me. If anything I guess it’ll serve as an introduction into who I am and my motivations behind this little project you’re currently on. It’s also an easy way to test out some questions I’ll use for profiles in the future.
+Alright – I guess this is pretty vain, but I thought I’d start this website off by featuring myself. If anything I guess it’ll serve as an introduction into who I am and my motivations behind this little project you’re currently on. It’s also an easy way to test out some questions I’ll use for profiles in the future.
 
 
 ### Who are you, what are you currently doing to make a living, where are you based?
 
-I am Matthew Vernon, a freelance digital designer from Sydney, Australia.
+I am Matthew Vernon, a freelance digital designer from Sydney, Australia. I spent the bulk of my days working out of my bedroom for a range of startups – usually on web design projects. I also love to work on side projects and my own ideas in my free time – this site is one of them. Another main side project of mine is [Neue Goods](http://neuegoods.com) – a clothing label I have been running for almost two years.
 
 
 ### How long have you been freelancing?
