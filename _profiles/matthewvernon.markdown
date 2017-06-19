@@ -1,6 +1,13 @@
 ---
 title: Matthew Vernon
 date: 2017-06-16 11:01:00 Z
+categories:
+- Freelancer
+tags:
+- freelance
+- design
+- startup
+- side-project
 Blurb: "Freelance designer who starts way too many side projects. Guess what? \LThis
   site is one of them."
 Achievements:
@@ -27,15 +34,14 @@ I am Matthew Vernon, a freelance digital designer from Sydney, Australia. I spen
 
 ### How long have you been freelancing?
 
-I have been working on freelance projects for almost as long as I have been a designer. One of my first real projects was working on the design of a printed flyer for a local cleaning company back when I was in my first year of design school. I charged $50. I continued to take on projects all through design school – and my first full time positions, but I officially left to freelance on a full time basis in February of 2016.
+I have been working on freelance projects for almost as long as I have been a designer. One of my first real projects was to design a printed flyer for a local cleaning company. I charged $50. I continued to take on projects all throughout design school – and during my first full time positions. I officially left to freelance on a full time basis in February of 2016.
 
 
 ### Did you ever work as a designer in a full time role?
 
-Yes, I had two full time positions – one at a tech startup and one at a digital agency. I always had ambitions to work for myself, freelance or start a company of sorts, but after graduation I still felt like there was a lot more for me to learn, and room for me to grow as a designer. Although I would’ve loved to freelance straight out of school like some lucky people, I just didn’t think I had the skills or know how to make it work. I figured getting some experience in some full time roles would be a great way for me to learn the ins and outs of the industry, and possibly receive some mentorship before jumping in to freelance.
+Yes, I had two full time positions – one at a tech startup and one at a digital agency. I always had ambitions to work for myself, freelance or start a company of sorts, but after graduation I still felt like there was a lot more for me to learn, and room for me to grow as a designer. Although I would’ve loved to freelance straight out of school, I just didn’t have the skills or know-how to make it work. I figured getting some experience in some full time roles would be a great way for me to learn the ins and outs of the industry, and possibly receive some mentorship before jumping in to freelance.
 
-Funnily enough – this wasn’t the case, as I was thrown right into the deep end in both positions, with very little help or mentorship. I had to learn things out for myself through experience. This was actually great, because I felt like I progressed as a designer much quicker than other people. I went from fresh out of design school, into a somewhat ‘mid-weight’ role almost immediately.
-
+Funnily enough – this wasn’t the case, as I was thrown right into the deep end in both positions, with very little help or mentorship. I had to learn things out for myself through experience. This was actually great, because I felt like I progressed as a designer much quicker than other people. I went from fresh out of design school, into a somewhat ‘mid-weight’ role almost immediately. It also showed me first hand that no one actually knows what they're doing. Everyone is winging it. With this experience, I figured I had just as much chance at making it work as anyone else. 
 
 ### What motivated you to make the jump into freelancing?
 
@@ -44,23 +50,23 @@ From a very young age I have always wanted to have a sense of independence. I ha
 
 ### Was it a conscious decision – or was it something you fell into?
 
-Yes and no. Yes – in that I had always planned to go freelance, but also no because the opportunity to actually quit full time work kind of just fell into my lap. I was working at an agency, and had been in talks with potentially working with the dudes at Made Together, another studio here in Sydney. I told them I was really keen to freelance one day, and they said they’d be open to facilitating that process for me by letting me work for them a few days a week. I had a holiday to Japan lined up, so I figured – fuck it. I’ll quit my job, head off to Japan, come back unemployed, work with these dudes for a few days a week and try to win some of my own clients on the side. If it didn’t work, I could always just find another job.
+Yes and no. Yes – in that I had always planned to go freelance, but also no because the opportunity to actually quit full time work kind of just fell into my lap. I was working at an agency, and had been in talks with potentially working with the dudes at [Made Together](http://madetogether.com.au), another studio here in Sydney. I told them I was really keen to freelance one day, and they said they’d be open to facilitating that process for me by letting me work for them a few days a week. I had a holiday to Japan lined up, so I figured – fuck it. I’ll quit my job, head off to Japan, come back unemployed, work with these dudes for a few days a week and try to win some of my own clients on the side. If it didn’t work, I could always just find another job.
 
-Of course – things didn’t go as planned, Made Together were still in the process of securing some new clients when I returned, so they weren’t ready for me to start working yet. I didn’t have much money saved, so I had to find clients fast. This ended up working well, as it threw me in the deep end and I was forced to make it work.
+Of course – things didn’t go as planned. Made Together were still in the process of securing some new clients when I returned from Japan, so they weren’t ready for me to start working yet. I didn’t have much money saved – so I had to find clients fast. This ended up working well, as it threw me in the deep end and I was forced to make it work.
 
 
 ### Prior to leaving full time work, what steps did you put in place to prepare yourself for freelancing?
 
-I don’t think I put much preparation making the leap at all. I didn’t have a lot of money saved up, I didn’t have clients or projects lined up and I didn’t know a lot about running a legit freelance business.
+I don’t think I put much preparation into making the leap at all. I didn’t have a lot of money saved up, I didn’t have clients or projects lined up and I didn’t know a lot about running a legit freelance business.
 
 But now that I look back on it, it was definitely something that was years in the making. All the work I had been putting in prior to leaving – like my side projects, my website/portfolio, and my previous freelance experience really provided a nice foundation for me to launch into full-time freelance from.
 
 
 ### How did you secure your first freelance client?
 
-A lot of my first projects weren’t actually independent projects with my own clients – they were temporary in-house roles at design studios and startups. For the first 6 or so months of freelancing, I would be jumping between studios and startups (and the agency I worked at full time) doing 2 days here, 3 days there.. charging each studio a day rate.
+A lot of my first projects weren’t actually independent projects with my own clients – they were temporary in-house roles at design studios and startups. For the first 6 or so months of freelancing, I would be jumping between studios and startups doing 2 days here, 3 days there.. charging each studio a day rate.
 
-The agency I worked at full time needed some help after I had quit, so I came back in as a freelance for a few days/week for a few weeks. The other roles I had found online ads for, or were found via word of mouth.
+The agency I worked at full time needed some help after I had quit, so I came back in as a freelancer for a few weeks. The other roles I had found online ads for, or were found via word of mouth.
 
 It actually took a while for me to secure my first few real, independent clients. There were a few projects I got from random emails from people who had heard about me from friends, but another way I secured a lot of work was from Facebook Groups. I’m a member of a Facebook group that contains people from the Sydney startup community. It’s full of developers, engineers, growth hackers and people running their own startups – which means, there’s a lot of people that need to hire designers. Every couple of months I put up a post with portfolio and I’ll usually receive a few clients from it.
 
