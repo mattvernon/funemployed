@@ -18,6 +18,7 @@ Website: http://craigjackson.io/
 Twitter: https://twitter.com/craig_jackson
 Instagram: https://www.instagram.com/iamcraigjackson/
 LinkedIn: https://www.linkedin.com/in/craig-jackson-541311a/?ppe=1
+layout: profile
 ---
 
 Can you please introduce yourself? Who are you, what are you currently doing to make a living, where are you based?
