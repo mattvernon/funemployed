@@ -13,7 +13,7 @@ Achievements:
 - "\U0001F1EC\U0001F1E7 Based in London"
 - "\U0001F44A Freelancing for 6 years"
 - "\U0001F4BB Worked with Apple, Google,  It's Nice That and Airbnb"
-Profile Image: "/uploads/01_Craig_Jackson_422ad2be6147d161a432a73e80512adf.jpg"
+Profile Image: "/uploads/01_Craig_Jackson_422ad2be6147d161a432a73e80512adf-40f69a.jpg"
 Website: http://craigjackson.io/
 Twitter: https://twitter.com/craig_jackson
 Instagram: https://www.instagram.com/iamcraigjackson/
