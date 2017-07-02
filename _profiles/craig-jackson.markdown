@@ -23,7 +23,7 @@ layout: profile
 
 ### Who are you, what are you currently doing to make a living, where are you based?
 
-I am Craig, a freelance graphic designer with over 10 years experience, based in London. With origins in print for the last 8 years I have plied my trade as a digital designer who dips back into print and editorial projects when the right ones come along. I have had the pleasure of working at the likes of Apple, Google, [DesignStudio](https://www.wearedesignstudio.com/), [Koto](https://www.studiokoto.co/), [Moving Brands](http://www.movingbrands.com/) and [Its Nice That](http://www.itsnicethat.com/) with brands such as Airbnb, BBC, BlackBerry, Ford, Gumtree, Kodak and Westminster Abbey. I have just finished a freelance role at [Wolff Olins](http://www.wolffolins.com/). I have been freelancing for 6 years.
+I am Craig, a freelance graphic designer with over 10 years experience, based in London. With origins in print for the last 8 years I have plied my trade as a digital designer who dips back into print and editorial projects when the right ones come along. I have had the pleasure of working at the likes of Apple, Google, [Pentragram](http://pentagram.com), [DesignStudio](https://www.wearedesignstudio.com/), [Koto](https://www.studiokoto.co/), [Moving Brands](http://www.movingbrands.com/) and [Its Nice That](http://www.itsnicethat.com/) with brands such as Airbnb, BBC, BlackBerry, Ford, Gumtree, Kodak and Westminster Abbey. I have just finished a freelance role at [Wolff Olins](http://www.wolffolins.com/). I have been freelancing for 6 years.
 
 ### What motivated you to make the jump into freelancing?
 
