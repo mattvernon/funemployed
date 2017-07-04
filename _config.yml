@@ -42,8 +42,8 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
-sponsor_img:
-sponsor_title:
-sponsor_headline:
-sponsor_subline:
-sponsor_url:
+sponsor_img: "/assets/images/rounded.svg"
+sponsor_title: "Rounded"
+sponsor_headline: "Goodbye Accounting, Hello Rounded."
+sponsor_subline: "Invoices, expensing and tax tools made for Australian freelancers & sole traders."
+sponsor_url: "http://rounded.com.au"

@@ -35,6 +35,14 @@ layout: default
 
     {% endfor %}
 
+    <a href="{{ site.sponsor_url | append: "?ref=funemployed" }}" target="_blank" id="sponsor-card">
+      <div class="profile-card-inner">
+        <small>Advertisement</small>
+        <img src="{{ site.sponsor_img }}" class="sponsor-img">
+        <h4>{{ site.sponsor_headline }}</h4>
+        <p>{{ site.sponsor_subline }}</p>
+      </div>
+    </a>
 
     </div>
   </div>
