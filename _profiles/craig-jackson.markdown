@@ -53,6 +53,8 @@ I think there are two types of freelancers, one’s that works direct with brand
 
 For me it was a great way of opening doors when first starting out to build up your experience. Now I will tend to know people that work at say a agency I would like to work for and it seems get me straight in. I get a lot of referrals too so I tend to get a lot of people emailing me out of the blue which is cool.
 
+![04_airbnb-75d182.jpg](/uploads/04_airbnb-75d182.jpg)
+
 ### How do you secure new projects, or new roles? Do you have any specific marketing strategies in place?
 
 I’ve always had a pretty steady flow of work if I am honest. Every now and again I have to send a few emails out to people that have got in touch in the past that at the time I was too busy to work with. A couple of times a year I also like to take a week out to arrange meetings to clients to make new contacts and show them my portfolio first hand. But generally people come to me and I have to turn a lot of work down which is a nice place to be in.
@@ -65,6 +67,8 @@ Every role is different which I really like. They normal start out as 2 weeks or
 
 I quite like it actually, I can get bored quite easily so fast pace of hoping between jobs is fine for me. I do get offered full time roles now and again at the agencies I work at quite a lot but at the moment I am very happy with being my own boss and organising my own time. Last year I worked about 37 weeks out of 52.
 
+![07_Guevara-2676a4.jpg](/uploads/07_Guevara-2676a4.jpg)
+
 ### How do you charge clients? per day, per week, per month? How do you increase your rates?
 
 I invoice weekly generally on a standard day rate which might go up or down a little bit, it kind of depends who’s asking. Roughly my rate has gone up £25per day per year.
@@ -73,6 +77,8 @@ I invoice weekly generally on a standard day rate which might go up or down a li
 
 In terms of mistakes no not really, maybe I should of taken the jump a couple of years sooner.
 
+![08_Magrabi-833690.jpg](/uploads/08_Magrabi-833690.jpg)
+
 ### What advice do you have for designers looking to freelance?
 
 Close your eyes hold tight and go for it, its not as scary as people make out. You can always go back to a full time job if things don’t work out. They will though it will be fine.
@@ -80,3 +86,5 @@ Close your eyes hold tight and go for it, its not as scary as people make out. Y
 ### What do you think about the future of freelancing? Is it bright? Do you believe it is a trend that will continue to grow?
 
 I think things are only going to get bigger and better. More and more younger people are deciding that its the lifestyle choice they want to take and its so easy to register as a company now and you can work from a beach or a plane. I think more industries already have this way of working its just technology has made things easier for everyone to get on with their working day.
+
+![09_desk.jpg](/uploads/09_desk.jpg)
