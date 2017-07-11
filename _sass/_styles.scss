@@ -236,6 +236,15 @@ h3 {
 	color: white;
 }
 
+.purple {
+	background-color: $purple;
+	border: 1px solid $purple;
+	color: white;
+}
+
+.purple:hover {
+	color: white;
+}
 
 
 
@@ -992,6 +1001,102 @@ b {
 	max-width: 400px;
 }
 
+// advertise
+
+.advertise {
+	text-align: center;
+	max-width: 680px;
+	margin: 0 auto;
+	margin-bottom: 100px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.advertise h1 {
+	color: $navy;
+	font-family: $tiempos;
+	font-size: 60px;
+	margin-bottom: 25px;
+}
+
+.advertise h2 {
+	font-size: 18px;
+	font-weight: 500;
+	color: $navy;
+	line-height: 1.8;
+	margin-bottom: 40px;
+}
+
+.advertise p {
+	max-width: none;
+}
+
+.advertise-cta {
+	border: 1px solid $lightgrey;
+	border-radius: 4px;
+	padding: 55px;
+	margin-top: 80px;
+}
+
+.flex-top,
+.flex-bottom {
+	display: flex;
+	justify-content: space-between;
+}
+
+.flex-top {
+	align-items: flex-start;
+}
+
+.flex-bottom {
+	margin-top: 5px;
+	align-items: baseline;
+}
+
+
+.flex-left {
+	max-width: 320px;
+	text-align: left;
+}
+
+.flex-bottom .flex-left {
+	max-width: 215px;
+	font-size: 14px;
+}
+
+.flex-left h4 {
+	font-weight: 500;
+	color: $navy;
+	-webkit-margin-before: 0;
+}
+
+.flex-left strong {
+	font-weight: 500;
+}
+
+.flex-left p {
+	line-height: 1.8;
+}
+
+.flex-right {
+	text-align: right;
+}
+
+.flex-right h6 {
+	font-weight: 500;
+	color: $navy;
+	font-size: 16px;
+	-webkit-margin-before: 0;
+}
+
+.flex-right span {
+	color: $purple;
+	font-size: 24px;
+	display: block;
+	margin-top: 5px;
+}
+
+
 /* ==================================================
 
 404
@@ -1222,6 +1327,23 @@ MEDIA QUERIES
 
 	.slack-button {
 		margin-top: 30px;
+	}
+
+	// advertise-cta
+
+	.flex-top,
+	.flex-bottom {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.flex-left,
+	.flex-right {
+		text-align: center;
+	}
+
+	.flex-right {
+		margin-top: 40px;
 	}
 
 }
