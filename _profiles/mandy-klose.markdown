@@ -7,36 +7,39 @@ Profile Image: "/uploads/18422085_10212794166269721_3453398257835459263_o.jpg"
 layout: profile
 ---
 
-**Who are you, and what’s your current situation?**
+### Who are you, and what’s your current situation?
 
 I’m Mandy Klose, a 25 year old traveller from New Zealand. After graduating at age 20 with a degree in Psychology and Crimonology– I left home and have never looked back. I’m currently travelling full time, and have been for over 4 years. I’m currently based in Austria, in a little village about 30 minutes north of the capital, Vienna.
 
-**How are your currently earning a living?**
+### How are your currently earning a living?
 
 I’ve made ends meet in various ways across my journey, but at the moment I am currently earning money by teaching english in five different primary schools around the countryside. I also babysit and do private english classes for young children and adults.
 
-\
-**What were your main motivations for travelling?**
+###What were your main motivations for travelling?
 
 After graduating, I needed to earn some cash– so I worked for 6 months in a rest home for old people. I heard a lot of stories from the people I was looking after. Go live your life, time goes fast, do what makes you happy, follow your heart..
 
-\
-**How did you make the jump?**
+###How did you make the jump?
 
 On the 4th of April 2013 I left New Zealand with a one way ticket to Croatia. I had managed to organise a volunteer opportunity there to help care for orphan children and saved around $2500NZD. The opportunity was for 6 weeks, but after that I had no idea what my plan was.
 
-\
-**Did you always intend to stay away for this long?**
+###Did you always intend to stay away for this long?
 
 No, never. I had no idea what I was doing. My mum told me just recently that she was 100% sure I would be back before Christmas of the same year.
 
-### \
-So after you finished up at Croatia, what pushed you to continue travelling? Instead of just heading back home?
+###So after you finished up at Croatia, what pushed you to continue travelling? Instead of just heading back home?
 
-I knew once I left New Zealand, I wouldn’t be back for as long as I could make it.(Couldn’t tell Mum that though). I wanted to see the world, meet people, learn stuff, do stuff, eperience stuff. I have ended up in so many crazy places, doing so many crazy things.\
-\*\*How have you managed to keep this going– what’s your secret?\*\*The secret is saying yes to things, and being open. The first 6 months I was just following leads from the internet and travel books. I would meet people, do things, go places and hear about cool places to volunteer. My backpack was 24kg, and I had everything I needed for any situation. \
-During the first few months I managed to live tightly off my savings. I was doing a lot of volunteering, wwoofing, workaway, helpx and couchsurfing. Using these things meant I could travel for much longer on a tight budget.\
-\*\*Give us a break down of the highlights of your journey so far.\*\*So in October 2013, I hitchhiked from Slovenia to Austria. I ended up in the city in Vienna in the middle of the night with no idea what to do next. I had zero plans. I stayed one night in a hostel and the next morning I opened up CouchSurfing and put out a post saying“Kiwi girl is looking for friends…”\
+I knew once I left New Zealand, I wouldn’t be back for as long as I could make it.(Couldn’t tell Mum that though). I wanted to see the world, meet people, learn stuff, do stuff, experience stuff. I have ended up in so many crazy places, doing so many crazy things.
+
+###How have you managed to keep this going– what’s your secret?
+
+The secret is saying yes to things, and being open. The first 6 months I was just following leads from the internet and travel books. I would meet people, do things, go places and hear about cool places to volunteer. My backpack was 24kg, and I had everything I needed for any situation.
+
+During the first few months I managed to live tightly off my savings. I was doing a lot of volunteering, wwoofing, workaway, helpx and couchsurfing. Using these things meant I could travel for much longer on a tight budget.
+
+###Give us a break down of the highlights of your journey so far.
+
+So in October 2013, I hitchhiked from Slovenia to Austria. I ended up in the city in Vienna in the middle of the night with no idea what to do next. I had zero plans. I stayed one night in a hostel and the next morning I opened up CouchSurfing and put out a post saying“Kiwi girl is looking for friends…”\
 After pushing refresh every few minutes, I finally got a reply from a boy saying something like“Heyyyy Mandy! There is a party tonight in the countryside and we all gonna get craazzzy. Wanna come?”. He name was Markus and he was 18.\
 I tossed around the idea of replying to him for a while. It was something I’d usually ignore, but I had no other leads. I replied and said“Yeah sure” and asked for more details.\
 A few hours later I was drunk in the countryside hanging with Markus and his friends. I ended up staying with him for a week. During this week we did stuff you’d expect in the countryside like chopping firewood and picking pears..\
