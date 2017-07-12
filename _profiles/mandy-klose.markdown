@@ -4,6 +4,7 @@ date: 2017-07-12 04:01:00 Z
 Blurb: A  world traveller who left New Zealand six years ago and has never looked
   back.
 Profile Image: "/uploads/18422085_10212794166269721_3453398257835459263_o.jpg"
+layout: profile
 ---
 
 **Who are you, and what’s your current situation?**
