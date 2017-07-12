@@ -13,7 +13,7 @@ layout: profile
 
 ### Who are you, and what’s your current situation?
 
-I’m Mandy Klose, a 25 year old traveller from New Zealand. After graduating at age 20 with a degree in Psychology and Crimonology– I left home and have never looked back. I’m currently travelling full time, and have been for over 4 years. I’m currently based in Austria, in a little village about 30 minutes north of the capital, Vienna.
+I’m Mandy Klose, a 25 year old traveller from New Zealand. After graduating at age 20 with a degree in Psychology and Crimonology – I left home and have never looked back. I’m currently travelling full time, and have been for over 4 years. I’m currently based in Austria, in a little village about 30 minutes north of the capital, Vienna.
 
 ### How are your currently earning a living?
 
