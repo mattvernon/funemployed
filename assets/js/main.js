@@ -11,3 +11,18 @@ $('#nav-icon3').click(function(){
   return false
 
 });
+
+
+// sticky header
+
+$(document).on('scroll', function() {
+  var pixelsFromTop = $(document).scrollTop();
+  var windowHeight = window.innerHeight;
+
+  if (pixelsFromTop > 600 ) {
+      $('.sticky-header').addClass('show')
+      } else {
+      $('.sticky-header').removeClass('show')
+      }
+
+})
