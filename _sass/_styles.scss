@@ -125,13 +125,43 @@
 /* Tiempos */
 
 @font-face {
-	font-family: 'Tiempos';
+	font-family: 'Tiempos Headline';
 	src: url('../assets/fonts/TiemposHeadlineWeb-Bold.eot');
 	src: url('../assets/fonts/TiemposHeadlineWeb-Bold.eot?#iefix') format('embedded-opentype'),
 		url('../assets/fonts/TiemposHeadlineWeb-Bold.woff2') format('woff2'),
 		url('../assets/fonts/TiemposHeadlineWeb-Bold.woff') format('woff');
 	font-weight: 700;
 	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Tiempos Headline';
+	src: url('../assets/fonts/TiemposHeadlineWeb-BoldItalic.eot');
+	src: url('../assets/fonts/TiemposHeadlineWeb-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('../assets/fonts/TiemposHeadlineWeb-BoldItalic.woff2') format('woff2'),
+		url('../assets/fonts/TiemposHeadlineWeb-BoldItalic.woff') format('woff');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Tiempos Text';
+	src: url('../assets/fonts/TiemposTextWeb-Regular.eot');
+	src: url('../assets/fonts/TiemposTextWeb-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../assets/fonts/TiemposTextWeb-Regular.woff2') format('woff2'),
+		url('../assets/fonts/TiemposTextWeb-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Tiempos Text';
+	src: url('../assets/fonts/TiemposTextWeb-RegularItalic.eot');
+	src: url('../assets/fonts/TiemposTextWeb-RegularItalic.eot?#iefix') format('embedded-opentype'),
+		url('../assets/fonts/TiemposTextWeb-RegularItalic.woff2') format('woff2'),
+		url('../assets/fonts/TiemposTextWeb-Regularitalic.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
 }
 
 
@@ -146,7 +176,8 @@
 // typography
 
 $gordita: 'Gordita', sans-serif;
-$tiempos: 'Tiempos', serif;
+$tiempos: 'Tiempos Headline', serif;
+$text: 'Tiempos Text', serif;
 
 // colour
 
@@ -270,7 +301,7 @@ h1 img {
 }
 
 #content h2 {
-  font-family: 'Tiempos';
+  font-family: $tiempos;
   font-size: 46px;
   color: #04092B;
   max-width: 490px;
@@ -388,6 +419,31 @@ header nav a:hover {
 
 header h1 img {
   margin: 0;
+}
+
+.sticky-header {
+	position: fixed;
+	top: 0;
+	border-bottom: 1px $lightgrey solid;
+	background-color: white;
+	width: 100%;
+	z-index: 100;
+	transform: translateY(-100%);
+	transition: 0.5s;
+}
+
+.show {
+	transform: translateY(0%);
+}
+
+.sticky-header .wrapper {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.sticky-header h1 {
+	margin: 0;
+	width: 75%;
 }
 
 /* =========================================================
@@ -529,6 +585,11 @@ footer .wrapper {
   display: flex;
 	align-items: center;
 	justify-content: space-between;
+}
+
+footer a {
+	border: none;
+	margin: none;
 }
 
 
@@ -758,7 +819,7 @@ PROFILE / MAIN ARTICLE PAGE
 	margin-top: 5px;
 	margin-bottom: 3px;
 	line-height: 1.8;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 // styling content
@@ -771,6 +832,7 @@ PROFILE / MAIN ARTICLE PAGE
 .post-content p {
 	max-width: 100%;
 	font-size: 16px;
+	font-family: $text;
 }
 
 .post-content h1 {
@@ -783,6 +845,9 @@ PROFILE / MAIN ARTICLE PAGE
 }
 
 .post-content h3 {
+	font-family: $gordita;
+	font-size: 18px;
+	font-weight: 500;
 	margin-top: 70px;
 	margin-bottom: 30px;
 	line-height: 1.6;
@@ -1189,6 +1254,11 @@ MEDIA QUERIES
 		font-size: 12px;
 	}
 
+	// hide sticky nav
+	.sticky-header {
+		display: none;
+	}
+
 }
 
 
@@ -1224,6 +1294,7 @@ MEDIA QUERIES
 		#sponsor-card {
 			width: 49%;
 	}
+
 
 }
 
