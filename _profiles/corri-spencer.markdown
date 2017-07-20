@@ -13,10 +13,12 @@ tags:
 Blurb: Self taught illustrator and designer out of Cleveland, doing creative things
   with Urban Outfitters and ASAPMOB.
 Achievements:
+- "\U0001F1FA\U0001F1F8 Lives and works in Cleveland, OH"
 - "\U0001F4AA Self taught via YouTube"
 - "\U0001F58C Working on a collection with Urban Outfitters"
-- "\U0001F3A4 Worked with ASAPMOB"
 - "\U0001F47E Into retro gaming"
+- "\U0001F3A4 Worked with ASAPMOB"
+- "\U0001F389 Freelancing for just over a year"
 Profile Image: "/uploads/W49V9v5__400x400.jpg"
 Twitter: https://twitter.com/corrispencer
 Instagram: https://www.instagram.com/corrispencers/
