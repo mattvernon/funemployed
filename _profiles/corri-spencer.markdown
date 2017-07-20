@@ -15,6 +15,7 @@ Blurb: Self taught illustrator and designer out of Cleveland, doing big things w
 Profile Image: "/uploads/W49V9v5__400x400.jpg"
 Twitter: https://twitter.com/corrispencer
 Instagram: https://www.instagram.com/corrispencers/
+layout: profile
 ---
 
 ### Could you just introduce yourself, and gimme an update on who you are, what are you doing and where you're based?
