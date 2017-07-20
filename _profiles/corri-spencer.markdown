@@ -10,8 +10,13 @@ tags:
 - art
 - collage
 - paint
-Blurb: Self taught illustrator and designer out of Cleveland, doing big things with
-  Urban Outfitters and ASAPMOB.
+Blurb: Self taught illustrator and designer out of Cleveland, doing creative things
+  with Urban Outfitters and ASAPMOB.
+Achievements:
+- "\U0001F4AA Self taught via YouTube"
+- "\U0001F58C Working on a collection with Urban Outfitters"
+- "\U0001F3A4 Worked with ASAPMOB"
+- "\U0001F47E Into retro gaming"
 Profile Image: "/uploads/W49V9v5__400x400.jpg"
 Twitter: https://twitter.com/corrispencer
 Instagram: https://www.instagram.com/corrispencers/
