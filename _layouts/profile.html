@@ -124,19 +124,23 @@ layout: defaultsub
   <div class="wrapper">
     <h3>Latest Profiles</h3>
       <div class="profile-cards">
-        {% for profiles in site.profiles limit:3 %}
-          {% if profiles.title == page.title %}
-            {% continue %}
-          {% else %}
-          <a href="{{ profiles.url | remove: ".html" }}" id="profile-card">
-            <div class="profile-card-inner">
-              <img src="{{ profiles['Profile Image'] }}" class="card-img">
-              <h4>{{ profiles.title }}</h4>
-              <p>{{ profiles.Blurb }}</p>
-            </div>
-          </a>
-          {% endif %}
-        {% endfor %}
+        {% assign items_found = 0 %}
+          {% for profiles in site.profiles reversed %}
+            {% unless profiles.title == page.title %}
+              {% assign items_found = items_found | plus: 1 %}
+
+                <a href="{{ profiles.url | remove: ".html" }}" id="profile-card">
+                  <div class="profile-card-inner">
+                    <img src="{{ profiles['Profile Image'] }}" class="card-img">
+                    <h4>{{ profiles.title }}</h4>
+                    <p>{{ profiles.Blurb }}</p>
+                  </div>
+                </a>
+
+                  {% endunless %}
+            {% if items_found == 3 %}{% break %}{% endif %}
+          {% endfor %}
+
       </div>
     </div>
   </section>
