@@ -8,6 +8,21 @@
 
   <!-- todo: include this into main.css -->
 
+  <!-- Begin Facebook tags -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:url" content="{{ base.url }}" />
+  <meta property="og:description" content="Showcasing the lives of the new generation breaking free of the nine to five." />
+  <meta property="og:image" content="assets/images/opengraph.png" />
+  <meta property="og:type" content="website" />
+  <!-- End Facebook tags -->
+
+  <!-- Begin Twitter tags -->
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="twitter:url" content="{{ base.url }}" />
+  <meta name="twitter:card" content="Showcasing the lives of the new generation breaking free of the nine to five." />
+  <meta name="twitter:image" content="assets/images/opengraph.png" />
+  <!-- End Twitter tags -->
+
   <link rel="stylesheet" href="{{ "css/main.css" | prepend: base.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
