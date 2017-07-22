@@ -309,9 +309,13 @@ h1 img {
 
 p {
   font-size: 14px;
-  color: #9194A9;
+  color: #676a80;
   line-height: 2;
   max-width: 460px;
+}
+
+.illustration img {
+	max-width: 600px;
 }
 
 /* Mailchimp styling */
@@ -443,7 +447,10 @@ header h1 img {
 
 .sticky-header h1 {
 	margin: 0;
-	width: 75%;
+}
+
+.sticky-header h1 img {
+	width: 100px;
 }
 
 /* =========================================================
@@ -643,8 +650,7 @@ HOME PAGE
 }
 
 #intro .wrapper img {
-	width: 40%;
-	padding-left: 40px;
+	width: 50%;
 }
 
 #intro {
@@ -1228,7 +1234,7 @@ MEDIA QUERIES
 	}
 
   .illustration img {
-    max-width: 100%;
+    max-width: 400px;
   }
 
   .container {
@@ -1257,6 +1263,10 @@ MEDIA QUERIES
 	// hide sticky nav
 	.sticky-header {
 		display: none;
+	}
+
+	.button {
+		margin-top: 0;
 	}
 
 }
