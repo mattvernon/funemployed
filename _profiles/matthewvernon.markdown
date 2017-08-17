@@ -45,7 +45,7 @@ Funnily enough – this wasn’t the case, as I was thrown right into the deep e
 
 ### Why freelance?
 
-From a very young age I have always wanted to have a sense of independence. I have always admired people who have been able to make a living from something they love and enjoy, and aimed to some day reach that point. It’s a bit left of field – but when I was a teenager I was very interested in punk, hardcore, skateboarding and all the other shit that comes along with being a ratchet kid from the suburbs. I looked up to people that went against the grain of society and I believe these subcultures have very much instilled a sense of ideals that is still present in me today. I may not be a pro skateboarder, or touring the world in a hardcore band – but I believe working for myself and walking into buildings in the financial district and pitching dudes in suits while I’m wearing a Black Flag t–shirt and jeans is good enough compromise for me.
+From a very young age I have always wanted to have a sense of independence. I have always admired people who have been able to make a living from something they love and enjoy, and aimed to some day reach that point. It’s a bit left of field – but when I was a teenager I was very interested in punk, hardcore, skateboarding and all the other shit that comes along with being a ratchet kid from the suburbs. I looked up to people that went against the grain of society and I believe these subcultures have very much instilled a sense of ideals that is still present in me today. I may not be a pro skateboarder, or touring the world in a hardcore band – but I believe being my own boss and pitching for work in a Black Flag t–shirt is a good enough compromise.
 
 
 ### Preparation
