@@ -37,20 +37,24 @@ Well, my girlfriend Nashelle actually encouraged me to look into it after she sh
 
 Well i've been freelancing for little over a year now. and aside from UO i'm not really designing at present—i'm getting really back into gaming. i love fighting games, recently picked up some emulator software to run Marvel v. Capcom, King of Fighters and Street fighter ha ha
 
+![20688465_267172713770812_6970592330675912704_n.jpg](/uploads/20688465_267172713770812_6970592330675912704_n.jpg)
+
 ### So before this you were working at Snap? What did you get up to there?
- 
+
 Oh yeah so before UO i was designing geofilters specifically for los angeles, which was an awesome experience but as you can imagine that could get pretty stale pretty quick ha ha
 
 ### Was this a freelance gig or full time?
- 
+
 Well… both actually! I was brought in under freelance terms initially but i was brought back for more full time stuff.
 
 ### So what draws personally draws you to freelancing? and is it something you've personally sought out, or was it something you kinda just fell into?
 
 Freelancing is one of those things that kind of just happened from necessity. Initially i only drew/doodled/painted as a hobby but once i lost my glamorous job as a sandwich maker i decided to paint full time. I got picked up by ASAPMOB to create some merchandise and ad stuff. Working with some of the other guys within the group kind of opened my eyes up to what design was and what it could be. Personally i didn't care for their work but it drew me into the medium.
 
+![20688526_1507480479313410_1556669600324648960_n.jpg](/uploads/20688526_1507480479313410_1556669600324648960_n.jpg)
+
 ### Oh sick! Sounds like a great opportunity So I take it you didn't study design, all self taught?
- 
+
 yessir i'm a homegrown you-tube baby!
 
 ### Sweeet! So can you tell me more about the stuff with ASAPMOB? How'd you hook that up, what kind of stuff were you working on and what was it like working with them?
@@ -60,6 +64,8 @@ oOh wow yeah, so to put it bluntly the experience was awful. I was used, pretty 
 ### Ah that sucks man. So what's a standard day like for you?
 
 Yeah! Okay so typically I'll start my day off with checking all the design publications i'm into like It's Nice That, Dezeen, NOWNESS, Coolhunting — blah, blah, blah. This is pretty much like my breakfast but for taste and aesthetic. For me it's super important to curate my interests and inspirations in a way that they're always in front of me. I find this improves my mood and keeps my pool of references diverse. [savee.it](http://savee.it) is an awesome tool for this. Next i'll either check client emails or have a nice smoke and play a Capcom fighter i.e. Street Fighter, Marvel v Capcom etc. depending if I have any work or not. If I do then I get to work! I always, always, always work to Frank Ocean's Endless album. Ambient tunes are the best for me to work to, they're ambiguous and big and hollow sounding. It resonates, It's well…endless ha ha. I'm a huge fighting game nerd so inbetween a project there will be frequent breaks for that. I like to watch old EVO videos on Youtube, Game Theory is a guilty pleasure of mine too! and if there's any new episodes of Boku no Hero Academia, Dragonball Super or Boruto out i'll watch that instead. Pretty standard Shounen I know but I dig the Saturday morning cartoon feel of keeping up with simulcasts.
+
+![19623465_124006771530831_2331900854971400192_n.jpg](/uploads/19623465_124006771530831_2331900854971400192_n.jpg)
 
 ### What's next for you? Are you going to continue freelancing? Where would you like to be in the next few years?
 
