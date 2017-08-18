@@ -8,6 +8,7 @@ Achievements:
 - "\U0001F30E Travelled to over 40 countries"
 - "\U0001F1E6\U0001F1F9 Currently based in Austria"
 Profile Image: "/uploads/18422085_10212794166269721_3453398257835459263_o.jpg"
+Facebook: https://www.facebook.com/mandy.klose
 layout: profile
 ---
 
