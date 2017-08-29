@@ -56,7 +56,7 @@ I tossed around the idea of replying to him for a while. It was something I’d 
 
 A few hours later I was drunk in the countryside hanging with Markus and his friends. I ended up staying with him for a week. During this week we did stuff you’d expect in the countryside like chopping firewood and picking pears..
 
-> Listen to you gut. If something feels weird it probably is.
+> "Listen to you gut. If something feels weird it probably is."
 
 I got to talking with one of the friends’ Mum, and I told her about my story. It turned out she was actually a principal of a small school in the countryside and she proposed the idea of me potentially teaching english in return for a place to stay, food and a bit of pocket money.She said it’d take a while to figure out– so we exchanged numbers and left the countryside and headed to England for a bit. I volunteered at some places, and worked as a bar girl at a hippy new years festival.
 
@@ -74,7 +74,7 @@ Amazing! I ended up not only teaching at her school, but a few other schools in 
 
 After living in her attic for 10 months, I moved into my own little flat nearby with some friends. I stayed there for another 8 months – and all of this was without a Visa or working permit!
 
-> Be nice to people! You never know how someone might be able to help you, or how you can help them.
+> "Be nice to people! You never know how someone might be able to help you, or how you can help them."
 
 ### Where we you off to next?
 
