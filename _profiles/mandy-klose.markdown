@@ -8,8 +8,11 @@ Achievements:
 - "\U0001F30E Travelled to over 40 countries"
 - "\U0001F1E6\U0001F1F9 Currently based in Austria"
 Profile Image: "/uploads/18422085_10212794166269721_3453398257835459263_o.jpg"
+Has Social: false
 layout: profile
 ---
+
+# I got introduced to Mandy by a fellow designer – [Nicola Rushton](http://www.nicolarushton.me/) who met Mandy while hiking the amazing Camingo de Santiago. What followed was an inspiring and somewhat hap hazard conversation over Facebook about her journey so far. If you've ever wondered how full time travellers make it work, read on. 
 
 ### Who are you, and what’s your current situation?
 
