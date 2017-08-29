@@ -19,7 +19,7 @@ Achievements:
 - "\U0001F47E Into retro gaming and anime"
 - "\U0001F3A4 Worked with ASAPMOB"
 - "\U0001F389 Freelancing for just over a year"
-Profile Image: "/uploads/W49V9v5__400x400.jpg"
+Profile Image: "/uploads/86SBtVa5_400x400.jpg"
 Twitter: https://twitter.com/corrispencer
 Instagram: https://www.instagram.com/corrispencers/
 layout: profile
