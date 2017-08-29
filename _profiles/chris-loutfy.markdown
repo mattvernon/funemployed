@@ -14,7 +14,7 @@ tags:
 - projects
 - side-project
 - artists
-Blurb: Determined creative doing a bunch of cool shit all the time.
+Blurb: Determined creative working on a bunch of different projects.
 Achievements:
 - "\U0001F58C Runs an Art Gallery"
 - "\U0001F4C8 Manages a roster of Artists"
