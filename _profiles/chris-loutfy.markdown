@@ -107,5 +107,3 @@ I just have my list going and I work through it all, and add to it as stuff come
 With the artist management stuff it’s interesting because it’s a million small jobs. There’s not much big project stuff on a regular basis, so it’s just emailling a lot and working through the smaller tasks.
 
 The majority of my work is actually just emailling, scheduling, making presentations and invoicing – so not matter the project, it all gets done in the same window at once.
-
-x
