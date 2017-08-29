@@ -842,12 +842,13 @@ PROFILE / MAIN ARTICLE PAGE
 }
 
 .post-content h1 {
-	font-family: $tiempos;
+	font-family: $text;
 	color: $navy;
 	font-size: 20px;
-	margin-top: 80px;
-	margin-bottom: 30px;
-	line-height: 1.5;
+	margin-top: 120px;
+	margin-bottom: 100px;
+	line-height: 1.8;
+	font-weight: 400;
 }
 
 .post-content h3 {
@@ -873,6 +874,19 @@ PROFILE / MAIN ARTICLE PAGE
 	font-weight: 500;
 	font-size: 12px;
 	font-style: normal;
+}
+
+.post-content blockquote {
+	text-align: center;
+}
+
+.post-content blockquote p {
+	font-size: 46px;
+	color: $navy;
+	margin-top: 140px;
+	margin-bottom: 140px;
+	line-height: 1.4;
+	// font-style: italic;
 }
 
 // social media icons
