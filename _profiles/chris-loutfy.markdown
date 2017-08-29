@@ -14,10 +14,13 @@ tags:
 - projects
 - side-project
 - artists
-Excerpt: "\U0001F58C Runs an Art Gallery\n\U0001F4C8 Manages a roster of Artists\n✉️
-  Professional emailler\n\U0001F4F8 Takes photos and sells 35mm cameras\n\U0001F4B3
-  Runs a clothing brand"
 Blurb: Determined creative doing a bunch of cool shit all the time.
+Achievements:
+- "\U0001F58C Runs an Art Gallery"
+- "\U0001F4C8 Manages a roster of Artists"
+- "✉️ Professional emailler"
+- "\U0001F4F8 Takes photos and sells 35mm cameras"
+- "\U0001F4B3 Runs a clothing brand"
 Profile Image: "/uploads/AAEAAQAAAAAAAAMaAAAAJDIxOTMyMGYzLTQ0MjctNDhmOS05NzIwLTAwNmQyNDM4OTViNQ.jpg"
 Website: http://www.chris-loutfy.com/
 Instagram: https://www.instagram.com/chrisloutfy/
