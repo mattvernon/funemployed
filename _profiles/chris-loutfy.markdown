@@ -105,3 +105,4 @@ With the artist management stuff it’s interesting because it’s a million sma
 
 The majority of my work is actually just emailling, scheduling, making presentations and invoicing – so not matter the project, it all gets done in the same window at once.
 
+x
