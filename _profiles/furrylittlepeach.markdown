@@ -1,7 +1,7 @@
 ---
 title: Sha'an d'Anthes
 date: 2017-08-29 08:28:00 Z
-Blurb: An amazing artist, illustrator and vlogger!
+Blurb: aka furrylittlepeach. An amazing artist, illustrator and vlogger!
 Achievements:
 - "\U0001F3A8 Freelance Illustrator and Artist"
 - "\U0001F4D2 Just illustrated a kids book!"
