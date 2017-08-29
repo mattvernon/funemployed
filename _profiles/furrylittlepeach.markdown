@@ -13,6 +13,7 @@ Website: http://www.furrylittlepeach.com/
 Twitter: https://twitter.com/furrylittlpeach
 Instagram: https://www.instagram.com/furrylittlepeach/
 YouTube: https://www.youtube.com/channel/UCt6B6bBEz0fGZIx6nVhhgjQ
+layout: profile
 ---
 
 [CONTENT GOES HERE]
