@@ -12,7 +12,7 @@ Has Social: false
 layout: profile
 ---
 
-# I got introduced to Mandy by a fellow designer – [Nicola Rushton](http://www.nicolarushton.me/) who met Mandy while hiking the amazing Camingo de Santiago. What followed was an inspiring and somewhat hap hazard conversation over Facebook about her journey so far. If you've ever wondered how full time travellers make it work, read on. 
+# I got introduced to Mandy by a fellow designer – [Nicola Rushton](http://www.nicolarushton.me/) who met Mandy while hiking the amazing Camingo de Santiago. What followed was an inspiring and somewhat hap hazard conversation over Facebook about her journey so far. If you've ever wondered how full time travellers manage to make it work, read on. 
 
 ### Who are you, and what’s your current situation?
 
