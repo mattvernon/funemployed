@@ -21,6 +21,7 @@ Blurb: Determined creative doing a bunch of cool shit all the time.
 Profile Image: "/uploads/AAEAAQAAAAAAAAMaAAAAJDIxOTMyMGYzLTQ0MjctNDhmOS05NzIwLTAwNmQyNDM4OTViNQ.jpg"
 Website: http://www.chris-loutfy.com/
 Instagram: https://www.instagram.com/chrisloutfy/
+layout: profile
 ---
 
 ### You’re a busy man managing a bunch of different things. Could you give us a run down on exactly what you’re doing at the moment?
