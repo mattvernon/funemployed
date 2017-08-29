@@ -8,7 +8,6 @@ Achievements:
 - "\U0001F30E Travelled to over 40 countries"
 - "\U0001F1E6\U0001F1F9 Currently based in Austria"
 Profile Image: "/uploads/18422085_10212794166269721_3453398257835459263_o.jpg"
-Facebook: https://www.facebook.com/mandy.klose
 layout: profile
 ---
 
@@ -23,8 +22,6 @@ I’ve made ends meet in various ways across my journey, but at the moment I am 
 ### What were your main motivations for travelling?
 
 After graduating, I needed to earn some cash– so I worked for 6 months in a rest home for old people. I heard a lot of stories from the people I was looking after. Go live your life, time goes fast, do what makes you happy, follow your heart..
-
-![1053100_10201368183907303_322770534_o.jpg](/uploads/1053100_10201368183907303_322770534_o.jpg)
 
 ### How did you make the jump?
 
@@ -56,9 +53,11 @@ I tossed around the idea of replying to him for a while. It was something I’d 
 
 A few hours later I was drunk in the countryside hanging with Markus and his friends. I ended up staying with him for a week. During this week we did stuff you’d expect in the countryside like chopping firewood and picking pears..
 
+> Listen to you gut. If something feels weird it probably is.
+
 I got to talking with one of the friends’ Mum, and I told her about my story. It turned out she was actually a principal of a small school in the countryside and she proposed the idea of me potentially teaching english in return for a place to stay, food and a bit of pocket money.She said it’d take a while to figure out– so we exchanged numbers and left the countryside and headed to England for a bit. I volunteered at some places, and worked as a bar girl at a hippy new years festival.
 
-I then wen to Belgium, joined a little commune for a bit. You know, a what’s yours is mine, what’s mine is yours kinda deal. I then stayed with a guy I met in Croatia a bit earlier and mucked around..
+I then went to Belgium, joined a little commune for a bit. You know, a what’s yours is mine, what’s mine is yours kinda deal. I then stayed with a guy I met in Croatia a bit earlier and mucked around..
 
 After doing some bits in pieces in Netherlands, I finally got a call one friday night from Vienna asking if I was still keen to take up that teaching job.
 
@@ -71,6 +70,8 @@ I hitchhiked back as quick as I could, and arrived on a Sunday night at the trai
 Amazing! I ended up not only teaching at her school, but a few other schools in the area. I bought myself a car, found an amazing boyfriend and made friends! I did yoga, zumba and learnt German in the afternoons. I had a real little comfortable life.
 
 After living in her attic for 10 months, I moved into my own little flat nearby with some friends. I stayed there for another 8 months – and all of this was without a Visa or working permit!
+
+> Be nice to people! You never know how someone might be able to help you, or how you can help them.
 
 ### Where we you off to next?
 
@@ -142,6 +143,6 @@ I would like to say don’t put yourself in dangerous situations.. but I did tha
 * Tell people where you are and where you’re planning on going.
   Always have too bags, one larger one with all your stuff, and a smaller one with just the important things. Prepare yourself that at any moment you may have to leave the large one behind.
 
-* Listen to your gut, if someone feels weird it probably is.
+* Listen to your gut, if something feels weird it probably is.
 
 ![10256871_10203620666617963_6528161065642103951_o.jpg](/uploads/10256871_10203620666617963_6528161065642103951_o.jpg)
