@@ -51,7 +51,9 @@ Well… both actually! I was brought in under freelance terms initially but I wa
 
 ### So what draws personally draws you to freelancing? and is it something you've personally sought out, or was it something you kinda just fell into?
 
-Freelancing is one of those things that kind of just happened from necessity. Initially I only drew/doodled/painted as a hobby but once I lost my glamorous job as a sandwich maker I decided to paint full time. I got picked up by ASAPMOB to create some merchandise and ad stuff. Working with some of the other guys within the group kind of opened my eyes up to what design was and what it could be. Personally I didn't care for their work but it drew me into the medium.
+Freelancing is one of those things that kind of just happened from necessity. Initially I only drew/doodled/painted as a hobby but once I lost my glamorous job as a sandwich maker I decided to paint full time. 
+
+I got picked up by ASAPMOB to create some merchandise and ad stuff. Working with some of the other guys within the group kind of opened my eyes up to what design was and what it could be. Personally I didn't care for their work but it drew me into the medium.
 
 ![20688526_1507480479313410_1556669600324648960_n.jpg](/uploads/20688526_1507480479313410_1556669600324648960_n.jpg)
 
@@ -65,10 +67,20 @@ Oh wow yeah, so to put it bluntly the experience was awful. I was used, pretty s
 
 ### Ah that sucks man. So what's a standard day like for you?
 
-Yeah! Okay so typically I'll start my day off with checking all the design publications i'm into like [It's Nice That](http://www.itsnicethat.com/), [Dezeen](https://www.dezeen.com/), [NOWNESS](https://www.nowness.com/), [Coolhunting](http://www.coolhunting.com/) — blah, blah, blah. This is pretty much like my breakfast but for taste and aesthetic. For me it's super important to curate my interests and inspirations in a way that they're always in front of me. I find this improves my mood and keeps my pool of references diverse. [Savee.it](http://savee.it) is an awesome tool for this. Next I'll either check client emails or have a nice smoke and play a Capcom fighter like Street Fighter or Marvel v Capcom. Depending if I have any work or not. If I do then I get to work! I always, always, always work to Frank Ocean's Endless album. Ambient tunes are the best for me to work to, they're ambiguous and big and hollow sounding. It resonates, It's well… endless ha ha. I'm a huge fighting game nerd so in-between a project there will be frequent breaks for that. I like to watch old EVO videos on YouTube. Game Theory is a guilty pleasure of mine too! and if there's any new episodes of Boku no Hero Academia, Dragonball Super or Boruto out I'll watch that instead. Pretty standard Shounen I know but I dig the Saturday morning cartoon feel of keeping up with simulcasts.
+Yeah! Okay so typically I'll start my day off with checking all the design publications i'm into like [It's Nice That](http://www.itsnicethat.com/), [Dezeen](https://www.dezeen.com/), [NOWNESS](https://www.nowness.com/), [Coolhunting](http://www.coolhunting.com/) — blah, blah, blah. This is pretty much like my breakfast but for taste and aesthetic. For me it's super important to curate my interests and inspirations in a way that they're always in front of me. I find this improves my mood and keeps my pool of references diverse. [Savee.it](http://savee.it) is an awesome tool for this. 
+
+Next I'll either check client emails or have a nice smoke and play a Capcom fighter like Street Fighter or Marvel v Capcom. Depending if I have any work or not. If I do then I get to work! 
+
+> "I love being in charge of myself and being able to provide solutions for clients that are 100% me.."
+
+I always, always, always work to Frank Ocean's Endless album. Ambient tunes are the best for me to work to, they're ambiguous and big and hollow sounding. It resonates, It's well… endless ha ha. 
+
+I'm a huge fighting game nerd so in-between a project there will be frequent breaks for that. I like to watch old EVO videos on YouTube. Game Theory is a guilty pleasure of mine too! and if there's any new episodes of Boku no Hero Academia, Dragonball Super or Boruto out I'll watch that instead. Pretty standard Shounen I know but I dig the Saturday morning cartoon feel of keeping up with simulcasts.
 
 ![UO-tee-02_3000_c.jpg](/uploads/UO-tee-02_3000_c.jpg)
 
 ### What's next for you? Are you going to continue freelancing? Where would you like to be in the next few years?
 
-Yeah I think I might continue freelancing for the time being. I love being in charge of myself and being able to provide solutions for clients that are 100% me without having to deal with as much of the bureaucracy that I would at a studio. In the next few years I'd like to start working on more physical projects. I really enjoy the look/feel of handmade goods. I'd like to get into ceramics and bikes. They're always something I've been super into. I'm looking into getting a super cool studio for myself as well. To sum it up I kind of just want to live like Tinker Hatfield, lol.
+Yeah I think I might continue freelancing for the time being. I love being in charge of myself and being able to provide solutions for clients that are 100% me without having to deal with as much of the bureaucracy that I would at a studio. 
+
+In the next few years I'd like to start working on more physical projects. I really enjoy the look/feel of handmade goods. I'd like to get into ceramics and bikes. They're always something I've been super into. I'm looking into getting a super cool studio for myself as well. To sum it up I kind of just want to live like Tinker Hatfield, lol.
