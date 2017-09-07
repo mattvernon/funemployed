@@ -21,6 +21,8 @@ LinkedIn: https://www.linkedin.com/in/craig-jackson-541311a/?ppe=1
 layout: profile
 ---
 
+# Craig Jackson just seems to be one of those freelancers who are absolutely killing it. He's constantly working with some really big names, and producing great work. He's also got one of the coolest personal websites I've ever seen. 
+
 ### Who are you, what are you currently doing to make a living, where are you based?
 
 I am Craig, a freelance graphic designer with over 10 years experience, based in London. With origins in print for the last 8 years I have plied my trade as a digital designer who dips back into print and editorial projects when the right ones come along. I have had the pleasure of working at the likes of Apple, Google, [Wolff Olins](http://www.wolffolins.com/), [DesignStudio](https://www.wearedesignstudio.com/), [Koto](https://www.studiokoto.co/), [Moving Brands](http://www.movingbrands.com/) and [Its Nice That](http://www.itsnicethat.com/) with brands such as Airbnb, BBC, BlackBerry, Ford, Gumtree, Kodak and Westminster Abbey. I have just started a freelance role at [Pentragram](http://pentagram.com). I have been freelancing for 6 years.
@@ -28,6 +30,8 @@ I am Craig, a freelance graphic designer with over 10 years experience, based in
 ### What motivated you to make the jump into freelancing?
 
 The vast range of opportunities and agencies that are out there to work with and not the same old boring clients. Being able to not work all the time and take unexpected time off on a whim and meeting and working with new people all the time.
+
+> Close your eyes hold tight and go for it, its not as scary as people make out.
 
 ### Was it a conscious decision – or was it something you fell into?
 
