@@ -27,6 +27,8 @@ Instagram: https://www.instagram.com/corrispencers/
 layout: profile
 ---
 
+# I randomly discovered Corri Spencer and his work via Twitter, and was immediately attracted to his slightly abstract, hand drawn approach to creating work. He's got a great approach to work, art and just creating in general.
+
 ### Could you just introduce yourself, and gimme an update on who you are, what are you doing and where you're based?
 
 Hi ya! names Corri Spencer, I am a freelance designer and illustrator out of Cleveland. Currently working out the kinks for this neat collab I have going with the good folks over at Urban Outfitters.
