@@ -21,7 +21,7 @@ LinkedIn: https://www.linkedin.com/in/craig-jackson-541311a/?ppe=1
 layout: profile
 ---
 
-# Craig Jackson just seems to be one of those freelancers who are absolutely killing it. He's constantly working with some really big names, and producing great work. He's also got one of the coolest personal websites I've ever seen. 
+# Craig Jackson just seems to be one of those freelancers who are absolutely killing it. He's constantly working with some really big names, and producing great work. He's also got one of the [coolest personal websites](http://craigjackson.io/) I've ever seen. 
 
 ### Who are you, what are you currently doing to make a living, where are you based?
 
