@@ -26,7 +26,7 @@ layout: profile
 
 # Alright – I guess this is pretty vain, but I thought I’d start this website off by featuring me. If anything I guess it’ll serve as an introduction into who I am and my motivations behind this little project you’re currently on. Here we go..
 
-### Who the fuck am I?
+### Introduction?
 
 I am Matthew Vernon – a designer from Sydney, Australia. I’m currently freelancing out of my bedroom, working for clients on a wide range of projects. I design websites, create strategies, develop brands and also write a bit of code. In between projects I like to make and build my own projects, with an aim of one day eliminating client work all together.
 
@@ -56,7 +56,7 @@ A lot of my first projects weren’t actually independent projects with my own c
 
 It actually took a while for me to secure my first few real, independent clients. There were a few projects I got from random emails from people who had heard about me from friends, but another way I secured a lot of work was from Facebook Groups. I’m a member of a Facebook group that contains people from the Sydney startup community. It’s full of developers, engineers, growth hackers and people running their own startups – which means, there’s a lot of people that need to hire designers. Every couple of months I put up a post with portfolio and I’ll usually receive a few clients from it.
 
-### Making money and cashing cheques
+### Cashin' cheques
 
 For agencies, startups and ongoing projects – I’ll charge a day rate. To calculate this, I doubled what I was earning full-time (to account for expenses, tax and super) and then whacked some more on top to account for periods where I am without work. I’ll charge clients less if they can guarantee work for an extended period of time, and I’ll also add on a “dickhead fee” for clients who I do not enjoy working with.
 
