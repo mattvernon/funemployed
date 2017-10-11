@@ -1043,6 +1043,16 @@ b {
 	max-width: 360px;
 }
 
+.content-left strong {
+	display: block;
+	color: $navy;
+	font-weight: 500;
+	margin-top: 60px;
+	line-height: 2;
+	font-size: 14px;
+	max-width: 80%;
+}
+
 .profile-image-about {
 	max-width: 80%;
 }
