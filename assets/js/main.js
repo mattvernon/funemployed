@@ -6,15 +6,15 @@ var animation = bodymovin.loadAnimation({
   loop: true,
   autoplay: false,
   path: 'assets/js/data_A.json'
-})
+});
 
 $('#bodymovin').mouseenter(function() {
   animation.play()
-})
+});
 
 $('#bodymovin').mouseleave(function() {
   animation.stop()
-})
+});
 
 // mobile nav
 
