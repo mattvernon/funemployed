@@ -7,7 +7,7 @@ Achievements:
 - "\U0001F3AE Originally worked at Activision"
 - "\U0001F306 Works in a cool home studio in DTLA"
 - "\U0001F63A Has a cool cat"
-Profile Image: "/uploads/-SisiliaPiring_SisiliaPiring_000029199.jpg"
+Profile Image: "/uploads/-SisiliaPiring_SisiliaPiring_000029199%20square.jpeg"
 Website: http://www.punodostres.com/
 Twitter: https://twitter.com/punodostres
 Instagram: https://www.instagram.com/punodostres/
