@@ -12,6 +12,7 @@ Website: http://www.punodostres.com/
 Twitter: https://twitter.com/punodostres
 Instagram: https://www.instagram.com/punodostres/
 YouTube: https://www.youtube.com/user/punodostres
+layout: profile
 ---
 
 ![peoplemap.png](/uploads/peoplemap.png)
