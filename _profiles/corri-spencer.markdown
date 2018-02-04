@@ -53,6 +53,8 @@ Yeah so before Urban Outfitters I was designing geofilters specifically for Los 
 
 Well… both actually! I was brought in under freelance terms initially but I was brought back for more full time stuff.
 
+![DUK8H8OUMAUVm_p.jpg](/uploads/DUK8H8OUMAUVm_p.jpg)
+
 ### So what draws personally draws you to freelancing? and is it something you've personally sought out, or was it something you kinda just fell into?
 
 Freelancing is one of those things that kind of just happened from necessity. Initially I only drew/doodled/painted as a hobby but once I lost my glamorous job as a sandwich maker I decided to paint full time. 
