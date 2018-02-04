@@ -21,7 +21,7 @@ Achievements:
 - "\U0001F47E Into retro gaming and anime"
 - "\U0001F3A4 Worked with ASAPMOB"
 - "\U0001F389 Freelancing for just over a year"
-Profile Image: "/uploads/86SBtVa5_400x400.jpg"
+Profile Image: "/uploads/8Yk0x34L_400x400.jpg"
 Twitter: https://twitter.com/corrispencer
 Instagram: https://www.instagram.com/corrispencers/
 layout: profile
@@ -84,7 +84,6 @@ I always, always, always work to Frank Ocean's Endless album. Ambient tunes are 
 I'm a huge fighting game nerd so in-between a project there will be frequent breaks for that. I like to watch old EVO videos on YouTube. Game Theory is a guilty pleasure of mine too! and if there's any new episodes of Boku no Hero Academia, Dragonball Super or Boruto out I'll watch that instead. Pretty standard Shounen I know but I dig the Saturday morning cartoon feel of keeping up with simulcasts.
 
 ![46098703_010_b.jpeg](/uploads/46098703_010_b.jpeg)
-![DUK8H8OUMAUVm_p.jpg](/uploads/DUK8H8OUMAUVm_p.jpg)
 
 ### What's next for you? Are you going to continue freelancing? Where would you like to be in the next few years?
 
