@@ -21,7 +21,7 @@ Achievements:
 - "✉️ Professional emailler"
 - "\U0001F4F8 Takes photos and sells 35mm cameras"
 - "\U0001F4B3 Runs a clothing brand"
-Profile Image: "/uploads/AAEAAQAAAAAAAAMaAAAAJDIxOTMyMGYzLTQ0MjctNDhmOS05NzIwLTAwNmQyNDM4OTViNQ.jpg"
+Profile Image: "/uploads/C0C3838-R1-33-4edit%20copy%202.jpg"
 Website: http://www.chris-loutfy.com/
 Instagram: https://www.instagram.com/chrisloutfy/
 layout: profile
@@ -52,6 +52,7 @@ After a bit of time with Lo-Fi, he also started up the Tate Gallery in Glebe. He
 
 Both Lo-Fi and the Tate were actually situated above pubs, both owned by Paddy Coughlan – a Sydney pub mogul. Paddy is a rare breed of businessman who can actually appreciate the non-monetary value of supporting creative culture.
 
+![C0C3838-R1-00-37edit.jpg](/uploads/C0C3838-R1-00-37edit.jpg)
 
 ### How did you move on from the Tate and onto Goodspace?
 
@@ -79,6 +80,7 @@ Logistics and mental lists are my kinda thing so I just spoke to them and was li
 
 I think generally my attitude is if I have an idea for a product, hobby or business or whatever – and it keeps running around in my head, surfacing over and over, then I just have to do it. If it doesn’t work or whatever, I’ve learnt lessons, built something and made friends. It all adds to my skill sets. I’ve had a bunch of sick projects that I’ve walked away from.
 
+![C0C3838-R1-33-4edit.jpg](/uploads/C0C3838-R1-33-4edit.jpg)
 
 ### Do you often have to pull back and stop yourself from starting new things?
 
