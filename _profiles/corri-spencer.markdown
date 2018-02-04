@@ -84,6 +84,7 @@ I always, always, always work to Frank Ocean's Endless album. Ambient tunes are 
 I'm a huge fighting game nerd so in-between a project there will be frequent breaks for that. I like to watch old EVO videos on YouTube. Game Theory is a guilty pleasure of mine too! and if there's any new episodes of Boku no Hero Academia, Dragonball Super or Boruto out I'll watch that instead. Pretty standard Shounen I know but I dig the Saturday morning cartoon feel of keeping up with simulcasts.
 
 ![46098703_010_b.jpeg](/uploads/46098703_010_b.jpeg)
+![DUK8H8OUMAUVm_p.jpg](/uploads/DUK8H8OUMAUVm_p.jpg)
 
 ### What's next for you? Are you going to continue freelancing? Where would you like to be in the next few years?
 
