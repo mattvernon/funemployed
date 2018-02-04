@@ -31,19 +31,19 @@ layout: profile
 
 ### Could you just introduce yourself, and gimme an update on who you are, what are you doing and where you're based?
 
-Hi ya! names Corri Spencer, I am a freelance designer and illustrator out of Cleveland. Currently working out the kinks for this neat collab I have going with the good folks over at Urban Outfitters.
+Hi ya! names Corri Spencer, I am a freelance designer and illustrator out of Cleveland. Have just finished up this neat collab I have going with the good folks over at Urban Outfitters.
 
 ### How'd you land that? How long have you been freelancing for?
 
 Well, my girlfriend Nashelle actually encouraged me to look into it after she shopped around a bit and saw a few neat collabs. So I reached out and luckily they answered! Ha Ha
 
-![cool-tote_2500.jpg](/uploads/cool-tote_2500.jpg)
+![DUgmymyVQAAmDmj.jpg](/uploads/DUgmymyVQAAmDmj.jpg)
 
 ### Oh awesome! So how long have you been freelancing for now, and what other kinds of projects have you been working on?
 
 Well I've been freelancing for little over a year now. Aside from Urban Outfitters I'm not really designing at present — I'm getting really back into gaming. I love fighting games, recently picked up some emulator software to run Marvel v. Capcom, King of Fighters and Street Fighter.
 
-![20688465_267172713770812_6970592330675912704_n.jpg](/uploads/20688465_267172713770812_6970592330675912704_n.jpg)
+![DUK8GWqV4AANEfE.jpg](/uploads/DUK8GWqV4AANEfE.jpg)
 
 ### So before this you were working at Snap? What did you get up to there?
 
@@ -59,7 +59,7 @@ Freelancing is one of those things that kind of just happened from necessity. In
 
 I got picked up by ASAPMOB to create some merchandise and ad stuff. Working with some of the other guys within the group kind of opened my eyes up to what design was and what it could be. Personally I didn't care for their work but it drew me into the medium.
 
-![20688526_1507480479313410_1556669600324648960_n.jpg](/uploads/20688526_1507480479313410_1556669600324648960_n.jpg)
+![46099396_010_h.jpeg](/uploads/46099396_010_h.jpeg)
 
 ### Oh sick! Sounds like a great opportunity So I take it you didn't study design, all self taught?
 
@@ -81,7 +81,7 @@ I always, always, always work to Frank Ocean's Endless album. Ambient tunes are 
 
 I'm a huge fighting game nerd so in-between a project there will be frequent breaks for that. I like to watch old EVO videos on YouTube. Game Theory is a guilty pleasure of mine too! and if there's any new episodes of Boku no Hero Academia, Dragonball Super or Boruto out I'll watch that instead. Pretty standard Shounen I know but I dig the Saturday morning cartoon feel of keeping up with simulcasts.
 
-![UO-tee-02_3000_c.jpg](/uploads/UO-tee-02_3000_c.jpg)
+![46098703_010_b.jpeg](/uploads/46098703_010_b.jpeg)
 
 ### What's next for you? Are you going to continue freelancing? Where would you like to be in the next few years?
 
